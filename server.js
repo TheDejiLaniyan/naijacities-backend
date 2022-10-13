@@ -9,14 +9,16 @@ const cookieParser = require('cookie-parser')
 // const bodyParser = require('body-parser')
 const cors = require('cors')
 const corsOptions = require('./config/corsOptions')
+const Port = process.env.PORT || 3500
 const connectDB = require('./config/dbConn')
+// const uri = process.env.DATABASE_URI;
 // const cloudinary = require('./cloudinary/cloudinary')
 // const fileUpload = require('express-fileupload')
 
 connectDB()
 
 
-// console.log(process.env.NODE_ENV)
+console.log(process.env.NODE_ENV)
 
 app.use(logger)
 app.use(cors(corsOptions))
@@ -46,7 +48,7 @@ app.all('*', (req, res) => {
 
 mongoose.connection.once('open', ()=>{
     console.log('Connected to mongoDB')
-    app.listen(process.env.PORT || 3500, ()=> console.log(`Listening on PORT ${process.env.PORT || 3500}`))
+    app.listen(Port, ()=> console.log(`Listening on PORT ${Port}`))
 })
 
 mongoose.connection.on('error', err => {

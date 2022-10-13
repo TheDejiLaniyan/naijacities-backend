@@ -36898,3 +36898,13 @@
 
 20221013	01:50:32	37547cd1-9c9d-41cd-bc87-fa71c7d09e20	GET	/naijacities/users	http://localhost:3000
 
+20221013	19:07:54	a6bfe904-e8cb-4c25-b0c6-4213e4547b06	GET	/NaijaCities	undefined
+
+20221013	19:07:54	002ef956-2daa-423a-8257-e208f9fc8b9d	GET	/favicon.ico	undefined
+
+20221013	19:11:10	885e3be0-7486-4b41-b75f-f1a6cefac651	GET	//favicon.ico	undefined
+
+20221013	19:11:35	fbb1ed90-8276-4e6c-9591-86001a0562b7	GET	/favicon.ico	undefined
+
+20221013	19:11:42	c00daebd-bf90-4613-981e-b5ec4e99ac14	GET	/naijacities	undefined
+
