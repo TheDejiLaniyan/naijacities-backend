@@ -9,9 +9,7 @@ const cookieParser = require('cookie-parser')
 // const bodyParser = require('body-parser')
 const cors = require('cors')
 const corsOptions = require('./config/corsOptions')
-const Port = process.env.PORT || 3500
 const connectDB = require('./config/dbConn')
-const uri = process.env.DATABASE_URI;
 // const cloudinary = require('./cloudinary/cloudinary')
 // const fileUpload = require('express-fileupload')
 
