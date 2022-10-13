@@ -2,8 +2,8 @@
   "name": "server",
   "type": "commonjs",
   "version": "1.0.0",
-  "description": "techNotes MERN project",
-  "main": "index.js",
+  "description": "naijacities",
+  "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
