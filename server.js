@@ -48,7 +48,7 @@ app.all('*', (req, res) => {
 
 mongoose.connection.once('open', ()=>{
     console.log('Connected to mongoDB')
-    app.listen(Port, ()=> console.log(`Listening on PORT ${Port}`))
+    app.listen(process.env.PORT || 3500, ()=> console.log(`Listening on PORT ${process.env.PORT || 3500}`))
 })
 
 mongoose.connection.on('error', err => {
