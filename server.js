@@ -18,7 +18,7 @@ const uri = process.env.DATABASE_URI;
 connectDB()
 
 
-console.log(process.env.NODE_ENV)
+// console.log(process.env.NODE_ENV)
 
 app.use(logger)
 app.use(cors(corsOptions))
