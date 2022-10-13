@@ -16,17 +16,17 @@ const connectDB = require('./config/dbConn')
 // const fileUpload = require('express-fileupload')
 
 connectDB()
-
-
 console.log(process.env.NODE_ENV)
 
 app.use(logger)
 app.use(cors(corsOptions))
-// app.use(express.json())
+app.use(express.json())
 app.use(cookieParser())
-app.use(express.urlencoded({ limit: "50mb", extended: true }))
-app.use(express.json({ limit: "50mb", extended: true }))
+// app.use(express.urlencoded({ limit: "50mb", extended: true }))
+// app.use(express.json({ limit: "50mb", extended: true }))
 app.use('/naijacities', express.static(path.join(__dirname, 'public')))
+
+
 
 app.use('/naijacities', require('./routes/root'))
 app.use('/naijacities/auth', require('./routes/authRoutes'))
@@ -45,6 +45,7 @@ app.all('*', (req, res) => {
         res.type('txt').send('404 Not Found')
     }
 })
+app.use(errorHandler)
 
 mongoose.connection.once('open', ()=>{
     console.log('Connected to mongoDB')
