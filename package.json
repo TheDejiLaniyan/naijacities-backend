@@ -5,8 +5,7 @@
   "description": "naijacities",
   "main": "server.js",
   "scripts": {
-    "start": "node server",
-    "dev": "nodemon server"
+    "start": "node server"
   },
   "keywords": [],
   "author": "",
