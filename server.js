@@ -6,24 +6,19 @@ const mongoose = require('mongoose')
 const {logger, logEvents} = require('./middleware/logger')
 const errorHandler = require('./middleware/errorHandler')
 const cookieParser = require('cookie-parser')
-// const bodyParser = require('body-parser')
 const cors = require('cors')
 const corsOptions = require('./config/corsOptions')
 const Port = process.env.PORT || 3500
 const connectDB = require('./config/dbConn')
-// const uri = process.env.DATABASE_URI;
-// const cloudinary = require('./cloudinary/cloudinary')
-// const fileUpload = require('express-fileupload')
+
 
 connectDB()
-// console.log(process.env.NODE_ENV)
+console.log(process.env.NODE_ENV)
 
 app.use(logger)
 app.use(cors(corsOptions))
 app.use(express.json())
 app.use(cookieParser())
-// app.use(express.urlencoded({ limit: "50mb", extended: true }))
-// app.use(express.json({ limit: "50mb", extended: true }))
 app.use('/', express.static(path.join(__dirname, 'public')))
 
 
@@ -32,7 +27,6 @@ app.use('/', require('./routes/root'))
 app.use('/auth', require('./routes/authRoutes'))
 app.use('/users', require('./routes/userRoutes'))
 app.use('/cities', require('./routes/citiesRoutes'))
-// app.use('//states', require('./routes/statesRoutes'))
 
 
 app.all('*', (req, res) => {
