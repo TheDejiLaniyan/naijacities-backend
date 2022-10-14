@@ -1,5 +1,5 @@
 const allowedorigins = [
-    'https://naijacities.onrender.com/naijacities'
+    'https://naijacities.onrender.com/'
 ]
 
 module.exports = allowedorigins
