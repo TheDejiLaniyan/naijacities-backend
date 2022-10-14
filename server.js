@@ -16,7 +16,7 @@ const connectDB = require('./config/dbConn')
 // const fileUpload = require('express-fileupload')
 
 connectDB()
-console.log(process.env.NODE_ENV)
+// console.log(process.env.NODE_ENV)
 
 app.use(logger)
 app.use(cors(corsOptions))
@@ -24,15 +24,15 @@ app.use(express.json())
 app.use(cookieParser())
 // app.use(express.urlencoded({ limit: "50mb", extended: true }))
 // app.use(express.json({ limit: "50mb", extended: true }))
-app.use('/naijacities', express.static(path.join(__dirname, 'public')))
+app.use('/', express.static(path.join(__dirname, 'public')))
 
 
 
-app.use('/naijacities', require('./routes/root'))
-app.use('/naijacities/auth', require('./routes/authRoutes'))
-app.use('/naijacities/users', require('./routes/userRoutes'))
-app.use('/naijacities/cities', require('./routes/citiesRoutes'))
-// app.use('/naijacities/states', require('./routes/statesRoutes'))
+app.use('/', require('./routes/root'))
+app.use('/auth', require('./routes/authRoutes'))
+app.use('/users', require('./routes/userRoutes'))
+app.use('/cities', require('./routes/citiesRoutes'))
+// app.use('//states', require('./routes/statesRoutes'))
 
 
 app.all('*', (req, res) => {
