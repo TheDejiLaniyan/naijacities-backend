@@ -1,7 +1,10 @@
 const mongoose = require('mongoose')
+const Schema = mongoose.Schema
 
-const stateSchema = new mongoose.Schema({
+const stateSchema = new Schema({
     name: String,
-    // image: String,
     lga: String,
+    image: String
 })
+
+module.exports = mongoose.model('State', stateSchema)

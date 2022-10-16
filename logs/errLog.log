@@ -4,3 +4,27 @@
 20221014	12:29:58	85944284-57d6-4d48-9372-b36592ea4a28	Error: Not allowed by CORS	GET	/naijacities	
     undefined
 
+20221015	14:35:29	a3bc72ca-35d1-4fd5-9d02-cab903cec671	PayloadTooLargeError: request entity too large	POST	/cities	
+    http://localhost:3000
+
+20221015	19:25:56	00d9ab21-9c31-4626-80b3-b852d9a01c5d	PayloadTooLargeError: request entity too large	POST	/cities	
+    http://localhost:3000
+
+20221015	19:28:53	6f27f7d8-a332-4d2a-8b90-ba0a10c91fb6	PayloadTooLargeError: request entity too large	POST	/cities	
+    http://localhost:3000
+
+20221016	00:05:11	4ed0d3b0-7abf-4bbb-8959-f9c0b7fa9ed9	PayloadTooLargeError: request entity too large	POST	/cities	
+    http://localhost:3000
+
+20221016	00:05:48	f6cb0a98-88bf-49b3-aedb-ff58e2379ef0	PayloadTooLargeError: request entity too large	POST	/cities	
+    http://localhost:3000
+
+20221016	00:07:17	e1f21b88-15c3-4bbd-b9cb-214bf23e0dc9	PayloadTooLargeError: request entity too large	POST	/cities	
+    http://localhost:3000
+
+20221016	00:08:15	d1adbb72-728c-4c38-a5ed-d4681bce57ef	PayloadTooLargeError: request entity too large	POST	/cities	
+    http://localhost:3000
+
+20221016	00:16:42	e64f96ed-aac3-4e84-b02e-7b0ea34f8f1a	PayloadTooLargeError: request entity too large	POST	/cities	
+    http://localhost:3000
+

@@ -23,10 +23,10 @@ const getAllCities = asyncHandler(async(req, res)=>{
 
 
 const createNewCity  =  asyncHandler(async (req, res)=>{
-        const {name, state, images} = req.body
+        const {name, state, images, author} = req.body
         // const {images} = req.files
        try{
-            if(!name || !state || !images ){
+            if(!name || !state || !images || !author ){
                 return res.status(400).json({ message: 'All fields are required' })
             }
             
@@ -42,7 +42,8 @@ const createNewCity  =  asyncHandler(async (req, res)=>{
             const cityObject = {
                     name,
                     state,
-                    images: uploadRes
+                    images: uploadRes,
+                    author
                 }
             const city = await Cities.create(cityObject)
 
