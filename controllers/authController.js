@@ -53,23 +53,30 @@ const login = asyncHandler(async (req, res) => {
 })
 
 const register = asyncHandler(async(req, res) => {
-    const {username, password, roles} = req.body
+    const {username, password, confirmPassword, email} = req.body
     
    try{
-        if (!username || !password || !roles) {
+        if (!username || !password || !confirmPassword  || !email) {
             return res.status(400).json({ message: 'All fields are required' })
         }
 
         const duplicate = await User.findOne({ username }).exec()
 
         if (duplicate) {
-            return res.status(409).json({ message: 'Duplicate username found!' })
+            return res.status(409).json({ message: 'Username has been taken!' })
+        }
+
+        const exists = await User.findOne({email}).exec()
+        if(exists){
+            return res.status(408).json({message: 'Email has been taken'})
         }
 
         user = new User({
             username,
             password,
-            roles
+            email,
+            confirmPassword,
+            roles : 'Tier1'
         })
 
         // hash user password

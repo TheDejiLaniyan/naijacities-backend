@@ -28,3 +28,24 @@
 20221016	00:16:42	e64f96ed-aac3-4e84-b02e-7b0ea34f8f1a	PayloadTooLargeError: request entity too large	POST	/cities	
     http://localhost:3000
 
+20221016	15:06:02	c7efd58e-32eb-4f36-9552-fefa4452b504	ValidationError: User validation failed: email: Path `email` is required.	PATCH	/users	
+    http://localhost:3000
+
+20221016	19:00:23	e8ca3b24-ba79-4b88-b2e9-b73b557c683d	ReferenceError: email is not defined	PATCH	/users	
+    http://localhost:3000
+
+20221016	23:08:50	c8455963-a39f-41f8-b204-006c772a5070	ReferenceError: email is not defined	PATCH	/users	
+    http://localhost:3000
+
+20221016	23:09:30	bfbc4eb2-52c0-49c1-b4a2-f0eddfdd2c6d	ReferenceError: email is not defined	PATCH	/users	
+    http://localhost:3000
+
+20221016	23:09:50	2c733129-a56a-4785-9fa5-4403504e50ba	ReferenceError: email is not defined	PATCH	/users	
+    http://localhost:3000
+
+20221016	23:13:12	b446d98a-91f2-47b2-ad41-24aeeafbc341	ReferenceError: email is not defined	PATCH	/users	
+    http://localhost:3000
+
+20221016	23:23:59	370bf8cf-3774-4001-8d30-f2c70b61a322	ReferenceError: active is not defined	PATCH	/users	
+    http://localhost:3000
+

@@ -15,24 +15,30 @@ const getAllUsers = asyncHandler(async (req, res) => {
 })
 
 const createNewUser = asyncHandler(async (req, res) => {
-    const { username, password, roles } = req.body
+    const { username, email, password, roles } = req.body
 
     // Confirm data
-    if (!username || !password || !Array.isArray(roles) || !roles.length) {
+    if (!username || !email || !password || !Array.isArray(roles) || !roles.length) {
         return res.status(400).json({ message: 'All fields are required' })
     }
 
     // Check for duplicate username
-    const duplicate = await User.findOne({ username }).lean().exec()
+    const duplicate = await User.findOne({ username }).exec()
 
     if (duplicate) {
-        return res.status(409).json({ message: 'Duplicate username' })
+        return res.status(409).json({ message: 'Username has been taken!' })
+    }
+
+    const exist = await User.find({email}).exec()
+
+    if(exist){
+        return res.status(409).json({message: 'User with email already exists'})
     }
 
     // Hash password 
     const hashedPwd = await bcrypt.hash(password, 10) // salt rounds
 
-    const userObject = { username, "password": hashedPwd, roles }
+    const userObject = { username, "password": hashedPwd, roles, email }
 
     // Create and store new user 
     const user = await User.create(userObject)
@@ -45,10 +51,10 @@ const createNewUser = asyncHandler(async (req, res) => {
 })
 
 const updateUser = asyncHandler(async (req, res) => {
-    const { id, username, roles, active, password } = req.body
+    const { id, username, email, roles, password } = req.body
 
     // Confirm data 
-    if (!id || !username || !Array.isArray(roles) || !roles.length ) {
+    if (!id || !email|| !username || !Array.isArray(roles) || !roles.length ) {
         return res.status(400).json({ message: 'All fields except password are required' })
     }
  
@@ -69,7 +75,7 @@ const updateUser = asyncHandler(async (req, res) => {
 
     user.username = username
     user.roles = roles
-    user.active = active
+    user.email = email
 
     if (password) {
         // Hash password 

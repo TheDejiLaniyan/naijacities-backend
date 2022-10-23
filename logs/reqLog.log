@@ -39238,3 +39238,1379 @@
 
 20221016	03:01:19	deda4ab9-a1b1-4835-8b91-1b8b0b08f20c	GET	/cities	http://localhost:3000
 
+20221016	14:56:37	f6be7285-9cbc-407c-82a6-8e9dd5aab9d7	OPTIONS	/auth	http://localhost:3000
+
+20221016	14:56:38	5fc3afaf-92d4-4dcc-a48c-18a58bb992b2	POST	/auth	http://localhost:3000
+
+20221016	14:56:41	def25a31-0512-40a3-9fd5-5603259c5432	OPTIONS	/users	http://localhost:3000
+
+20221016	14:56:41	5a182c03-323c-4709-8b0f-7d3231e8f653	OPTIONS	/cities	http://localhost:3000
+
+20221016	14:56:41	7f2364c9-d849-4678-825c-5c52771cddab	GET	/users	http://localhost:3000
+
+20221016	14:56:41	621ffc40-dcc0-4dcd-add4-77d3e0480a77	GET	/cities	http://localhost:3000
+
+20221016	15:05:20	9ec22cf9-6c91-4140-9cf4-5e6f59ff8bb1	OPTIONS	/users	http://localhost:3000
+
+20221016	15:05:20	6a7c5f9b-d0e8-436f-9ea9-a70647818a6a	GET	/users	http://localhost:3000
+
+20221016	15:06:01	d9d28d6a-7955-4bba-9102-7ee054e10fdb	OPTIONS	/users	http://localhost:3000
+
+20221016	15:06:01	22236eb5-984f-460c-9fcf-7e85fd71efb5	PATCH	/users	http://localhost:3000
+
+20221016	15:06:02	69a2e6d6-728a-4f1e-9a6f-a8617a931884	GET	/users	http://localhost:3000
+
+20221016	15:07:02	89f5f6b3-cbb4-47e2-a12f-114ed0d31307	OPTIONS	/users	http://localhost:3000
+
+20221016	15:07:02	f0afff2d-07cb-4d1f-b414-cad78dff2aa1	GET	/users	http://localhost:3000
+
+20221016	15:08:03	12f0bd14-c955-48a3-9096-cd06cf646ad6	OPTIONS	/users	http://localhost:3000
+
+20221016	15:08:03	5062d950-edd1-4616-ac30-3a02645e0851	GET	/users	http://localhost:3000
+
+20221016	18:13:05	bc2dd60d-2286-44f7-94b9-eafe8602f135	OPTIONS	/users	http://localhost:3000
+
+20221016	18:13:06	a9d451e2-0ddf-44b2-97fd-6aef032714e4	PATCH	/users	http://localhost:3000
+
+20221016	18:13:07	1e3b846e-c831-49ea-8623-5a2aa7202646	OPTIONS	/auth/refresh	http://localhost:3000
+
+20221016	18:13:07	83f5eb4a-d290-41c7-b38e-e57a664fab2c	GET	/auth/refresh	http://localhost:3000
+
+20221016	18:13:09	22194b09-8000-442c-94df-47966350b8d4	PATCH	/users	http://localhost:3000
+
+20221016	18:13:10	824f61c1-653b-4306-a11b-b041013d00ee	GET	/users	http://localhost:3000
+
+20221016	18:13:19	f29d346f-6d97-4d77-9218-058cc4e7b8e2	OPTIONS	/users	http://localhost:3000
+
+20221016	18:13:19	af5f911d-378f-4eb1-b758-32e62e55b00c	GET	/users	http://localhost:3000
+
+20221016	18:13:28	2c50e9aa-4284-41b7-9e98-7029b59e8467	OPTIONS	/users	http://localhost:3000
+
+20221016	18:13:28	e0483147-ff82-41d6-a51d-9dfd6252b50d	GET	/users	http://localhost:3000
+
+20221016	18:14:29	2f91fce3-c075-48b4-9f14-9bf7c07d8a4f	OPTIONS	/users	http://localhost:3000
+
+20221016	18:14:29	ca5b267c-d4c2-4d7f-970e-da338d7edfe6	GET	/users	http://localhost:3000
+
+20221016	18:14:56	76d38f9e-4490-4cfe-87f3-b765fde11519	OPTIONS	/users	http://localhost:3000
+
+20221016	18:14:56	d98bf2de-9769-45c3-8d8c-27c72f1c08aa	GET	/users	http://localhost:3000
+
+20221016	18:15:05	3f4c2973-61fa-4835-8200-71b40a7e35de	OPTIONS	/users	http://localhost:3000
+
+20221016	18:15:05	a3a3fded-397c-4964-b2ab-5855b16b5818	PATCH	/users	http://localhost:3000
+
+20221016	18:15:06	bc564da1-1a32-4e55-ad19-6d3dc21a3a3d	GET	/users	http://localhost:3000
+
+20221016	18:16:00	2a362bb0-ecf7-400c-994b-380910ff30f7	OPTIONS	/users	http://localhost:3000
+
+20221016	18:16:00	743f789b-4ce8-482c-8c10-a3522572a052	GET	/users	http://localhost:3000
+
+20221016	18:16:04	9a802e30-f884-4d21-8dfa-3541290da347	OPTIONS	/users	http://localhost:3000
+
+20221016	18:16:04	aaa3d356-013e-45b4-ad58-a0b7c30480a0	DELETE	/users	http://localhost:3000
+
+20221016	18:16:05	bc546ac0-6227-49bf-8d98-23c104f87ae5	GET	/users	http://localhost:3000
+
+20221016	18:16:09	03fad75c-d547-4545-8062-823d8a87ce61	DELETE	/users	http://localhost:3000
+
+20221016	18:16:09	5bfb545f-7379-4454-9647-ee1b66566f1f	OPTIONS	/users	http://localhost:3000
+
+20221016	18:16:09	0ac8cce7-6a39-4f89-b065-33ca17284fd1	GET	/users	http://localhost:3000
+
+20221016	18:16:19	c45742b1-3ecd-4c25-a108-64f270d387a9	OPTIONS	/users	http://localhost:3000
+
+20221016	18:16:19	32e1f5d4-6c12-4883-b5bb-bc733de4d7a4	GET	/users	http://localhost:3000
+
+20221016	18:16:29	8bd737e0-3178-4cc8-b311-7a50be4372f4	GET	/auth/refresh	http://localhost:3000
+
+20221016	18:16:29	ada0ada9-300d-4f8f-94d0-3ffeb2e6fea8	OPTIONS	/users	http://localhost:3000
+
+20221016	18:16:29	b47fc6dd-0170-423d-8ef8-c85bc809d1bd	OPTIONS	/cities	http://localhost:3000
+
+20221016	18:16:30	88202d16-9b6b-4016-a5f5-6222bd8e5a75	GET	/users	http://localhost:3000
+
+20221016	18:16:30	ff0a3f59-7909-4ced-b6fc-9c7e807f3c48	GET	/cities	http://localhost:3000
+
+20221016	18:16:33	f917d23e-6e59-4ed8-95c9-65ec9a015bee	GET	/users	http://localhost:3000
+
+20221016	18:17:34	3df6efd3-8b98-4a60-86ca-fa25488ad1da	OPTIONS	/users	http://localhost:3000
+
+20221016	18:17:34	502cef0e-069f-4f6b-8874-414f260c85f6	GET	/users	http://localhost:3000
+
+20221016	18:18:35	84bb659b-2d9f-4291-bcac-0bf156b91f4f	OPTIONS	/users	http://localhost:3000
+
+20221016	18:18:35	0d954894-dff0-4cef-8f93-fe68f5f12df3	GET	/users	http://localhost:3000
+
+20221016	18:19:36	32ebb820-ca33-4d2a-baab-ca890d85ebd0	OPTIONS	/users	http://localhost:3000
+
+20221016	18:19:36	e4cefb9e-384f-4fe9-aa5f-2b30cc38ae82	GET	/users	http://localhost:3000
+
+20221016	18:20:37	147970f3-4f51-433f-9261-92c50d2530b9	OPTIONS	/users	http://localhost:3000
+
+20221016	18:20:37	77a4a9cd-2e77-4efa-958e-d909a7af1d40	GET	/users	http://localhost:3000
+
+20221016	18:20:58	777b374e-3ec8-44f4-9ead-662954e8524a	OPTIONS	/users	http://localhost:3000
+
+20221016	18:20:58	dcf9cdf0-17c5-4602-b593-aa818f5a7875	GET	/users	http://localhost:3000
+
+20221016	18:21:05	3315c4d4-5e17-48f3-bd0a-8d8844e00a3e	OPTIONS	/users	http://localhost:3000
+
+20221016	18:21:05	4d1820d3-95db-4f63-b118-e127e67dd0e6	GET	/users	http://localhost:3000
+
+20221016	18:22:05	92e6bbb7-e55f-4a0f-990c-7fab0e83f83e	OPTIONS	/users	http://localhost:3000
+
+20221016	18:22:05	105d7937-579e-4b09-baa0-914bce6a1d8f	GET	/users	http://localhost:3000
+
+20221016	18:23:07	a5be2df9-22c3-4fe4-912f-dcc0f727fb07	OPTIONS	/users	http://localhost:3000
+
+20221016	18:23:07	0f2fa253-30a4-4b85-b2cc-064d3f235695	GET	/users	http://localhost:3000
+
+20221016	18:24:08	d065ee3a-234a-4d36-903c-4e85b6065ae5	OPTIONS	/users	http://localhost:3000
+
+20221016	18:24:08	b18b00a2-c11b-4ad6-97db-94d927f36b0c	GET	/users	http://localhost:3000
+
+20221016	18:25:09	b2db33ae-d274-4d78-b777-fb49385f12f4	OPTIONS	/users	http://localhost:3000
+
+20221016	18:25:09	9b40b265-90fa-48c4-a168-d9444a384091	GET	/users	http://localhost:3000
+
+20221016	18:25:18	5ff85ff9-f66b-4f3c-9ce2-96c24c7c03bb	OPTIONS	/users	http://localhost:3000
+
+20221016	18:25:19	917ec024-5c8a-4438-88e6-1dab85b7c4c0	GET	/users	http://localhost:3000
+
+20221016	18:26:19	97985c66-385b-45c7-b656-5ac231ac2550	OPTIONS	/users	http://localhost:3000
+
+20221016	18:26:19	0e632e01-c7c0-4aba-b4ab-7bbb682e4af2	GET	/users	http://localhost:3000
+
+20221016	18:27:22	a88cd723-4396-4294-b6af-e441782bc05c	OPTIONS	/users	http://localhost:3000
+
+20221016	18:27:22	931f7863-95fd-4215-91b1-65954801506c	GET	/users	http://localhost:3000
+
+20221016	18:27:41	73a972c7-5926-4eaa-a86d-232958bc61e9	OPTIONS	/users	http://localhost:3000
+
+20221016	18:27:41	ff4b9a5a-7686-41a6-b0d4-d776fe6b95c1	GET	/users	http://localhost:3000
+
+20221016	18:27:50	1dde3a86-82fd-4d33-90d2-291ebd0ba2b9	OPTIONS	/users	http://localhost:3000
+
+20221016	18:27:50	2d15d027-134f-4e54-b786-803325afbd23	GET	/users	http://localhost:3000
+
+20221016	18:27:57	704bc7a8-cc0f-4348-8331-9731afa59008	OPTIONS	/users	http://localhost:3000
+
+20221016	18:27:57	2b5e9874-6b2d-4f2a-ad74-12fe5eaeefb0	GET	/users	http://localhost:3000
+
+20221016	18:28:07	ce04907b-24c6-48ce-9827-8f2833595a8f	OPTIONS	/users	http://localhost:3000
+
+20221016	18:28:07	6f69d0dd-beb2-44c9-9d2c-525e370f9bd6	GET	/users	http://localhost:3000
+
+20221016	18:28:24	391fbafb-7cc6-439c-97ee-760ca862628a	OPTIONS	/users	http://localhost:3000
+
+20221016	18:28:24	b688b16c-fcd7-4fa6-a114-642ecfa54145	GET	/users	http://localhost:3000
+
+20221016	18:29:24	cfef4a0b-2aa2-4f52-b712-68e1d7f000fc	OPTIONS	/users	http://localhost:3000
+
+20221016	18:29:24	296df953-1460-4d39-b0a8-55a0a90ddb40	GET	/users	http://localhost:3000
+
+20221016	18:30:25	ecc3d52c-cd35-4d8d-9180-d05182240538	OPTIONS	/users	http://localhost:3000
+
+20221016	18:30:25	2779d0e7-c9b8-49dc-9c2e-c4699a27299c	GET	/users	http://localhost:3000
+
+20221016	18:31:25	3ecaaa72-0219-44cc-818b-111d8a8c17ca	OPTIONS	/users	http://localhost:3000
+
+20221016	18:31:25	d04d5a43-92c0-4588-a910-b53dec4c8ef4	GET	/users	http://localhost:3000
+
+20221016	18:32:25	6605d742-4ab6-4912-ad0e-867ba49462dd	OPTIONS	/users	http://localhost:3000
+
+20221016	18:32:25	b7e600b3-c95c-434b-836f-426bd3cb93f3	GET	/users	http://localhost:3000
+
+20221016	18:32:25	d5a5fd08-539d-4943-9122-05dfac74c95d	OPTIONS	/auth/refresh	http://localhost:3000
+
+20221016	18:32:25	ae0f39a2-d944-4aa0-a19a-3bc199cb49b9	GET	/auth/refresh	http://localhost:3000
+
+20221016	18:32:25	62fcfb7a-cc5d-4408-8c75-e883bc1cab96	GET	/users	http://localhost:3000
+
+20221016	18:33:25	ec1adf9d-b1b7-47d2-97d7-948d27b88282	GET	/users	http://localhost:3000
+
+20221016	18:33:25	42676097-b499-46ea-bcd4-8e8d1a5594a5	OPTIONS	/users	http://localhost:3000
+
+20221016	18:34:26	75649dae-ae0f-479c-8306-87043396e2ad	OPTIONS	/users	http://localhost:3000
+
+20221016	18:34:26	1a1958a3-c94b-48e3-82d7-ea26c22bb8df	GET	/users	http://localhost:3000
+
+20221016	18:35:26	5af64402-d055-4a9c-a8a5-5a7b043b3b44	OPTIONS	/users	http://localhost:3000
+
+20221016	18:35:26	6fc943b6-e363-402e-a63c-315b6ba9fe8c	GET	/users	http://localhost:3000
+
+20221016	18:36:26	ef87de2c-6ef7-41f2-a7e6-f9adf0cdffaa	OPTIONS	/users	http://localhost:3000
+
+20221016	18:36:26	9a2ed7e1-4b92-4ae0-856b-24fec2374c57	GET	/users	http://localhost:3000
+
+20221016	18:37:26	8105034c-8e01-4eed-90d7-2623153031f5	OPTIONS	/users	http://localhost:3000
+
+20221016	18:37:26	e3205a4a-a64f-45f2-b7f9-3286cb4d3f2e	GET	/users	http://localhost:3000
+
+20221016	18:38:27	f392e454-3ed0-4c79-b620-c4d553e9645c	OPTIONS	/users	http://localhost:3000
+
+20221016	18:38:27	0b1e928f-fa93-45c7-9d2a-1ab672666129	GET	/users	http://localhost:3000
+
+20221016	18:39:27	37ce1fb9-eb58-435f-a35e-b2c3cd593209	OPTIONS	/users	http://localhost:3000
+
+20221016	18:39:27	d64c69b4-cb23-4345-99b7-7de6a4cb4d66	GET	/users	http://localhost:3000
+
+20221016	18:40:27	5d067fbc-e2a2-4c26-98ac-fe7ee324f0d4	OPTIONS	/users	http://localhost:3000
+
+20221016	18:40:27	0090fe67-58a2-43e0-9660-ae4460408db0	GET	/users	http://localhost:3000
+
+20221016	18:41:27	bde34f6e-19a9-4656-9c83-482870fac9d7	OPTIONS	/users	http://localhost:3000
+
+20221016	18:41:27	a638f82d-bde4-4d6e-9230-53ac50c653d6	GET	/users	http://localhost:3000
+
+20221016	18:42:27	576a0a23-7599-4071-b323-20843e739917	OPTIONS	/users	http://localhost:3000
+
+20221016	18:42:27	7a4b8f0f-0102-4656-9232-cc546b73366e	GET	/users	http://localhost:3000
+
+20221016	18:43:27	2a98314a-f640-4518-ad0a-83944e0f0526	OPTIONS	/users	http://localhost:3000
+
+20221016	18:43:27	b7e00e68-18df-4cb9-9d20-6ba4127a8fc7	GET	/users	http://localhost:3000
+
+20221016	18:44:28	fb2866f7-6d97-47e6-801d-b1856055cb92	OPTIONS	/users	http://localhost:3000
+
+20221016	18:44:28	8355cd6c-dfff-42e8-8f1e-14f728d27258	GET	/users	http://localhost:3000
+
+20221016	18:45:58	07c9481a-c8da-4c9e-b82c-9ea5f419dbd4	OPTIONS	/users	http://localhost:3000
+
+20221016	18:45:58	6d73282b-8b24-4d0b-9ece-69e84d082aeb	POST	/users	http://localhost:3000
+
+20221016	18:45:59	c099b6f5-2f7f-4f79-a7a1-330834551ebe	GET	/users	http://localhost:3000
+
+20221016	18:47:00	9b1b00a2-0c69-4b8b-89c2-0f8d078e85e5	OPTIONS	/users	http://localhost:3000
+
+20221016	18:47:00	1e2a790d-eb64-4d30-ba7d-cf1623902261	GET	/users	http://localhost:3000
+
+20221016	18:49:04	939dccd3-2d2c-4a92-83cb-8f00b24417b2	OPTIONS	/users	http://localhost:3000
+
+20221016	18:49:04	6895e5b0-5e7b-4a91-901f-30b7fb769f81	GET	/users	http://localhost:3000
+
+20221016	18:49:04	ee66e4f0-d9f3-4906-b03b-f31684d49e44	OPTIONS	/auth/refresh	http://localhost:3000
+
+20221016	18:49:04	de677035-7a18-4f38-bc89-e836c0334ec0	GET	/auth/refresh	http://localhost:3000
+
+20221016	18:49:05	2b73ecbf-61f2-4544-a064-ba72966862ba	GET	/users	http://localhost:3000
+
+20221016	18:49:15	3c6556ea-45bf-4d31-8263-bb7847386d66	OPTIONS	/users	http://localhost:3000
+
+20221016	18:49:15	2fc1849f-1bf8-4d24-b800-a81e1f9b49ad	GET	/users	http://localhost:3000
+
+20221016	18:49:20	0d031a5c-3947-4d61-9af0-ad49b6cad243	OPTIONS	/users	http://localhost:3000
+
+20221016	18:49:20	bf06ae85-6a17-44aa-b0a9-a8db3bd10bd2	DELETE	/users	http://localhost:3000
+
+20221016	18:49:20	63e0c956-9920-43a3-b895-92602e5ec362	GET	/users	http://localhost:3000
+
+20221016	18:50:21	fb15eb2c-76c2-48fa-8979-15f0acb4215e	OPTIONS	/users	http://localhost:3000
+
+20221016	18:50:21	442e8166-5280-46d2-8474-2fb99a9da84b	GET	/users	http://localhost:3000
+
+20221016	18:51:22	0aef2eef-13be-4aa5-bc58-55ed19aa8226	OPTIONS	/users	http://localhost:3000
+
+20221016	18:51:22	b0bf2487-0227-4aa4-b89a-0772c773b57c	GET	/users	http://localhost:3000
+
+20221016	18:52:23	37924bca-7807-4ade-9f47-755dd3cedf0c	OPTIONS	/users	http://localhost:3000
+
+20221016	18:52:23	a61943cc-3fef-4c37-ba54-7cee921b66d9	GET	/users	http://localhost:3000
+
+20221016	18:53:24	06bf4c83-6e66-4397-98e5-15e464b6b8a2	OPTIONS	/users	http://localhost:3000
+
+20221016	18:53:24	94095260-608d-4df3-8905-721188c23260	GET	/users	http://localhost:3000
+
+20221016	18:54:25	aec6f990-90f7-46ee-a440-4c4e124a0489	OPTIONS	/users	http://localhost:3000
+
+20221016	18:54:25	fdd7fa6d-1f9f-4f9d-b028-60ffdf4040a4	GET	/users	http://localhost:3000
+
+20221016	18:55:26	42777ebb-8d09-413a-a8b4-8b5c09898bdb	OPTIONS	/users	http://localhost:3000
+
+20221016	18:55:26	0798e076-b1fa-4c78-b1c7-bf960df06009	GET	/users	http://localhost:3000
+
+20221016	18:56:27	2fab08f9-4c22-4331-8251-e2380abc1ca2	OPTIONS	/users	http://localhost:3000
+
+20221016	18:56:27	740b011d-f8fb-4a9e-8855-022517b4c87a	GET	/users	http://localhost:3000
+
+20221016	18:57:28	f128aa18-ec13-4a25-bb05-9356dbf26d00	OPTIONS	/users	http://localhost:3000
+
+20221016	18:57:28	e826b4fd-f2ad-4868-be96-986de9827915	GET	/users	http://localhost:3000
+
+20221016	18:58:29	da0d2875-45f9-4822-b721-4264a82b5b9d	OPTIONS	/users	http://localhost:3000
+
+20221016	18:58:29	160b152f-1cca-4ad9-8559-0c8861be0b34	GET	/users	http://localhost:3000
+
+20221016	18:59:30	e42450f6-f129-4331-b7d2-56473cd6bafc	OPTIONS	/users	http://localhost:3000
+
+20221016	18:59:30	28a61b02-7905-45c7-8ae0-fabeefc3a1e0	GET	/users	http://localhost:3000
+
+20221016	19:00:17	c302f52b-0bbc-4f6b-9639-eb9f82abbb37	OPTIONS	/users	http://localhost:3000
+
+20221016	19:00:17	d41b1a09-eacb-4867-a6e0-95d894f1b54b	GET	/users	http://localhost:3000
+
+20221016	19:00:23	0b2a937e-10b1-45d8-b78f-4ad6b758383a	OPTIONS	/users	http://localhost:3000
+
+20221016	19:00:23	cff0cbda-b726-47e3-9e88-f3086f10b184	PATCH	/users	http://localhost:3000
+
+20221016	19:00:23	b87d8dcd-c29e-4776-860a-5daab662c979	GET	/users	http://localhost:3000
+
+20221016	19:12:05	09e28b0e-abcd-4e3f-965d-02546d4dbfb1	OPTIONS	/auth/logout	http://localhost:3000
+
+20221016	19:12:05	f89f402a-dbd1-4ac0-adf6-cddad362ee3a	POST	/auth/logout	http://localhost:3000
+
+20221016	19:12:14	e46c1de4-9c93-4f3f-aa71-b5c7b7462557	OPTIONS	/auth	http://localhost:3000
+
+20221016	19:12:14	0f55d8f7-3fbc-42b0-bff5-eae6136ba7a5	POST	/auth	http://localhost:3000
+
+20221016	19:12:15	705c0791-aeac-47c1-86ca-6fb926cb1314	OPTIONS	/users	http://localhost:3000
+
+20221016	19:12:15	83b30ccb-9eee-4c82-b92b-c5a6ea578a21	OPTIONS	/cities	http://localhost:3000
+
+20221016	19:12:15	01a0fd18-5bd7-491a-a958-acb857553771	GET	/users	http://localhost:3000
+
+20221016	19:12:15	2a5049c9-5571-4d34-9154-823870162b7f	GET	/cities	http://localhost:3000
+
+20221016	19:12:23	b06c722d-1155-41ca-9460-795479bae0f1	OPTIONS	/users	http://localhost:3000
+
+20221016	19:12:23	cba6e040-c242-4917-a5ea-57a564c1e731	GET	/users	http://localhost:3000
+
+20221016	19:12:25	660b5ff6-4f58-4af1-b556-d4d4d503f1e0	OPTIONS	/auth/logout	http://localhost:3000
+
+20221016	19:12:25	0e7655e3-5427-44bc-a5a4-9e1a1d35c797	POST	/auth/logout	http://localhost:3000
+
+20221016	19:12:49	e19bd567-0d1a-4615-86db-5eb370dd2718	OPTIONS	/auth/register	http://localhost:3000
+
+20221016	19:12:49	8d2adc36-6d32-48bb-b785-258017b99bd0	POST	/auth/register	http://localhost:3000
+
+20221016	19:12:54	260a6d20-109c-4d98-95eb-e66081530ca3	POST	/auth/register	http://localhost:3000
+
+20221016	19:13:59	e138e0c3-660f-4c15-b30f-77f08cbd91f9	OPTIONS	/auth/register	http://localhost:3000
+
+20221016	19:13:59	81e847bc-6de5-426a-b0b3-830cd04a4123	POST	/auth/register	http://localhost:3000
+
+20221016	19:40:44	047b4760-c596-4b94-ac6f-555204cd6356	OPTIONS	/auth/register	http://localhost:3000
+
+20221016	19:40:45	fde1bffe-8ac9-45b0-8542-4825acf5c408	POST	/auth/register	http://localhost:3000
+
+20221016	23:06:13	a0d9ba00-e878-4ae2-81ab-fcc874d6f737	OPTIONS	/auth/register	http://localhost:3000
+
+20221016	23:06:13	37bb0d2b-1fc4-452a-ad96-6177faf8c934	POST	/auth/register	http://localhost:3000
+
+20221016	23:07:29	b30a2929-6782-4c76-8f86-11901e843d3c	OPTIONS	/auth/register	http://localhost:3000
+
+20221016	23:07:29	6e3ac918-c5a9-42c1-ac33-8ad5ebd49c42	POST	/auth/register	http://localhost:3000
+
+20221016	23:08:36	e7424ba9-68d1-468f-9e61-0e313ce00697	OPTIONS	/auth	http://localhost:3000
+
+20221016	23:08:36	6775c844-171c-429e-bf07-76e9a2b999b4	POST	/auth	http://localhost:3000
+
+20221016	23:08:37	169ece41-0187-415f-89d0-bda80d45a263	OPTIONS	/users	http://localhost:3000
+
+20221016	23:08:37	12bd11c5-0616-48ea-8978-e6d1eb2caf37	OPTIONS	/cities	http://localhost:3000
+
+20221016	23:08:37	62a95b59-6a45-4db8-a993-2a04db263daa	GET	/users	http://localhost:3000
+
+20221016	23:08:37	b28076de-b5ce-4d15-8fe1-cb0041c27c06	GET	/cities	http://localhost:3000
+
+20221016	23:08:42	e787506b-c0f5-4a50-bbee-cd09428c6a0a	OPTIONS	/users	http://localhost:3000
+
+20221016	23:08:42	df1e536f-674b-4e0b-928e-f86dc2562961	GET	/users	http://localhost:3000
+
+20221016	23:08:49	702e5231-fc9f-4a69-a798-023aec09cb04	OPTIONS	/users	http://localhost:3000
+
+20221016	23:08:50	f530f4dc-ef6b-45a4-bcbd-2fb9ab40ead5	PATCH	/users	http://localhost:3000
+
+20221016	23:08:50	60b20b20-12a9-4bfb-b614-6ff064d6f264	GET	/users	http://localhost:3000
+
+20221016	23:08:55	7b9a4422-1fa2-4353-8160-fe527d9e4ea5	OPTIONS	/auth/logout	http://localhost:3000
+
+20221016	23:08:55	ecf9efc8-1ccc-4aa6-b276-a6c322a31a17	POST	/auth/logout	http://localhost:3000
+
+20221016	23:09:03	7fa69b70-7181-48b5-b181-1c49efd07d0d	OPTIONS	/auth	http://localhost:3000
+
+20221016	23:09:03	36a5ca32-567f-4861-ba7f-89412f02d171	POST	/auth	http://localhost:3000
+
+20221016	23:09:04	94ee66c6-01bc-4352-9193-14d8d3e4ac78	OPTIONS	/users	http://localhost:3000
+
+20221016	23:09:04	daed8c2f-5e96-47d2-84b9-0ec445da4cd4	OPTIONS	/cities	http://localhost:3000
+
+20221016	23:09:04	5613f7be-6ad2-45ed-a914-a8839aef0313	GET	/users	http://localhost:3000
+
+20221016	23:09:04	2030e769-b4e8-4116-a4ed-db4c803442d6	GET	/cities	http://localhost:3000
+
+20221016	23:09:16	6beb9532-4ad4-44a7-80ac-32835273633d	OPTIONS	/auth/logout	http://localhost:3000
+
+20221016	23:09:16	546f6d47-c5cc-4ab4-95a2-2b0c3cd87da7	POST	/auth/logout	http://localhost:3000
+
+20221016	23:09:23	51e723ee-158d-4985-aea8-5798859da8c5	OPTIONS	/auth	http://localhost:3000
+
+20221016	23:09:23	f7df7dd3-a156-4fc4-be19-aa95d9d86393	POST	/auth	http://localhost:3000
+
+20221016	23:09:23	5a55d53a-2eb0-4aef-84b0-21d40a4bc4d0	OPTIONS	/users	http://localhost:3000
+
+20221016	23:09:23	d03a93ac-cfef-4209-be63-daf0a3071119	OPTIONS	/cities	http://localhost:3000
+
+20221016	23:09:23	943bfc7d-7fe2-42aa-bedb-f96ee42d66c1	GET	/users	http://localhost:3000
+
+20221016	23:09:23	0d2100e9-ac1f-4df1-b13c-aaee4fd4fc3c	GET	/cities	http://localhost:3000
+
+20221016	23:09:26	e11d32d8-8700-4f7d-a3ba-4f0f3bcdd939	GET	/users	http://localhost:3000
+
+20221016	23:09:30	54a3de8f-5225-449b-bf5b-888bc1402b6a	OPTIONS	/users	http://localhost:3000
+
+20221016	23:09:30	8c268456-ae65-4180-ad51-3c21f25b621a	PATCH	/users	http://localhost:3000
+
+20221016	23:09:31	29814e58-babc-4539-8c4c-6e117a5af2e3	GET	/users	http://localhost:3000
+
+20221016	23:09:43	ed37bc0d-5c3a-4517-a321-2e39fe073b57	OPTIONS	/users	http://localhost:3000
+
+20221016	23:09:43	4208e1f9-4086-4d66-888b-2df1a96178df	GET	/users	http://localhost:3000
+
+20221016	23:09:50	3a99bba0-b696-4a1a-b56f-6661ce4daba2	OPTIONS	/users	http://localhost:3000
+
+20221016	23:09:50	e5919e28-7f85-4ec9-baca-23ccc91a8fd6	PATCH	/users	http://localhost:3000
+
+20221016	23:09:50	b4a96c9b-f6de-4bb3-9e97-79f758909d83	GET	/users	http://localhost:3000
+
+20221016	23:10:51	0ff0e128-80c2-4df1-9bf0-a72413d55d63	OPTIONS	/users	http://localhost:3000
+
+20221016	23:10:51	74a579a0-927b-4bd5-ba54-1df1644519b1	GET	/users	http://localhost:3000
+
+20221016	23:11:11	7168876a-5c23-427e-aa21-253e0f158cdd	OPTIONS	/users	http://localhost:3000
+
+20221016	23:11:11	f14d03c2-dbb6-475f-96da-c04e67f70f22	GET	/users	http://localhost:3000
+
+20221016	23:11:20	4d0b32a2-cb37-4b5e-8874-3c5ca790759c	OPTIONS	/users	http://localhost:3000
+
+20221016	23:11:20	b2fed02f-0f0d-43b6-8bc5-ebd3a9d8be29	GET	/users	http://localhost:3000
+
+20221016	23:13:12	3b515fff-3344-4b71-817c-461fc65e4281	OPTIONS	/users	http://localhost:3000
+
+20221016	23:13:12	7d24f156-e088-495f-a314-4682a2cf00ea	PATCH	/users	http://localhost:3000
+
+20221016	23:13:12	1020bc6d-c2d4-4351-9c03-324029f56d54	GET	/users	http://localhost:3000
+
+20221016	23:14:13	07cc7aa6-7700-4783-96e4-2f47c1838be5	OPTIONS	/users	http://localhost:3000
+
+20221016	23:14:13	856b4211-d1ea-488c-8779-3dce9f0a2f45	GET	/users	http://localhost:3000
+
+20221016	23:15:15	d82740a0-de24-4e83-8300-8999717ba6e4	OPTIONS	/users	http://localhost:3000
+
+20221016	23:15:15	bdea6b1b-88e1-4356-a125-8433a9cc2221	GET	/users	http://localhost:3000
+
+20221016	23:15:48	e61e8487-a569-44d2-acf6-06bc15797619	OPTIONS	/users	http://localhost:3000
+
+20221016	23:15:48	b3645e94-80e0-476c-aeaf-446f8675110c	GET	/users	http://localhost:3000
+
+20221016	23:16:49	2f9982a6-756e-41e8-864f-44c2b8769e3c	OPTIONS	/users	http://localhost:3000
+
+20221016	23:16:49	fbcc4640-0d68-4138-b67b-1476c49b65db	GET	/users	http://localhost:3000
+
+20221016	23:17:50	4a183564-7ac6-4e97-a262-764b48f553f4	OPTIONS	/users	http://localhost:3000
+
+20221016	23:17:50	6a865a9e-e5ff-47ef-a45b-c3f10488ba9e	GET	/users	http://localhost:3000
+
+20221016	23:18:51	11e3bdaf-b6a8-4702-a731-d6abff8b58f6	OPTIONS	/users	http://localhost:3000
+
+20221016	23:18:51	0fa143fb-be05-4c36-a1cb-280679c89fea	GET	/users	http://localhost:3000
+
+20221016	23:19:52	dbc0a185-131b-46b3-b311-07dce3d5ea88	OPTIONS	/users	http://localhost:3000
+
+20221016	23:19:52	6864d6f1-9cd7-4647-8308-c45f8c125336	GET	/users	http://localhost:3000
+
+20221016	23:20:53	4e9db58e-260f-4c36-b816-ab873131cc66	OPTIONS	/users	http://localhost:3000
+
+20221016	23:20:53	28bc5983-37f0-4124-8fe3-0748821b3a62	GET	/users	http://localhost:3000
+
+20221016	23:21:54	8c4afc0b-e90e-4304-b83b-24bc16dc9c57	OPTIONS	/users	http://localhost:3000
+
+20221016	23:21:54	32a26742-3114-4c8d-b5ed-d5244e8787a8	GET	/users	http://localhost:3000
+
+20221016	23:22:13	da130058-c67f-446a-ac41-c6059852abad	OPTIONS	/users	http://localhost:3000
+
+20221016	23:22:13	38e3d3b6-144b-4c26-b672-bdafca745762	GET	/users	http://localhost:3000
+
+20221016	23:23:13	3a7383b4-8765-427a-aeff-62710db31901	OPTIONS	/users	http://localhost:3000
+
+20221016	23:23:13	9df5ad31-e57a-4bbf-aa19-77cb5f04c7a2	GET	/users	http://localhost:3000
+
+20221016	23:23:54	87e55da8-b197-454d-8a89-a50a6f2edd02	OPTIONS	/users	http://localhost:3000
+
+20221016	23:23:54	c38a08f3-5294-4ac6-8319-49af1bc6b8d2	GET	/users	http://localhost:3000
+
+20221016	23:23:58	439b863c-ac0d-4492-b52c-fe16454dab3a	OPTIONS	/users	http://localhost:3000
+
+20221016	23:23:58	f71a41c7-fe65-44b5-9b94-c631d8bcdb6a	PATCH	/users	http://localhost:3000
+
+20221016	23:23:59	9e0bd970-9f5c-4bb2-ae93-85ecfc237309	GET	/users	http://localhost:3000
+
+20221016	23:24:34	d869f2c7-68af-4615-8232-545c5efc8701	OPTIONS	/users	http://localhost:3000
+
+20221016	23:24:34	1360f49e-12db-4635-afeb-a2c8e93d998a	GET	/users	http://localhost:3000
+
+20221016	23:24:40	9badb7a5-57eb-48c4-b46e-2ff8886ad03f	OPTIONS	/users	http://localhost:3000
+
+20221016	23:24:40	f3dde657-5e22-47ea-9c0e-6a972313e262	PATCH	/users	http://localhost:3000
+
+20221016	23:24:41	6e39c4d3-92e9-4ba9-8440-5d35f52c71a1	GET	/users	http://localhost:3000
+
+20221016	23:24:45	22b81b1f-7853-40d8-a0d6-6711fb1984fd	OPTIONS	/auth/logout	http://localhost:3000
+
+20221016	23:24:45	fd8762bf-be0b-42d5-8f00-4abc1a5cebf1	POST	/auth/logout	http://localhost:3000
+
+20221016	23:24:54	56bd77ec-7bd7-4e53-b068-f89c133bc820	OPTIONS	/auth	http://localhost:3000
+
+20221016	23:24:54	27a41dd3-8cf0-43f2-b77a-e5ad160e1929	POST	/auth	http://localhost:3000
+
+20221016	23:24:54	fec3db71-3b0c-4696-803a-a6ba200fd32b	OPTIONS	/users	http://localhost:3000
+
+20221016	23:24:54	7b01f77a-9057-40e3-bbfd-1ba983be6859	OPTIONS	/cities	http://localhost:3000
+
+20221016	23:24:54	51a8e585-8621-4d57-a809-3260ca50af06	GET	/users	http://localhost:3000
+
+20221016	23:24:54	45634f43-b048-414d-ae18-77f59a413211	GET	/cities	http://localhost:3000
+
+20221016	23:24:58	8b3c85d4-8fb6-4e55-8e02-e7d32ea08557	GET	/users	http://localhost:3000
+
+20221016	23:25:01	62881f10-b621-48c9-ad71-c00013025762	OPTIONS	/users	http://localhost:3000
+
+20221016	23:25:01	e2206db9-e7ac-4732-873b-6f4ade9b0370	DELETE	/users	http://localhost:3000
+
+20221016	23:25:01	53cf5dab-50db-47d7-bf07-e2e514b58661	GET	/users	http://localhost:3000
+
+20221016	23:26:02	781f0220-317e-4ad7-ad60-feee989c784a	OPTIONS	/users	http://localhost:3000
+
+20221016	23:26:02	4f6bdb44-2c4c-4531-9625-60c5577bed2c	GET	/users	http://localhost:3000
+
+20221016	23:26:05	97cedf83-11b9-4366-80ce-a977477bc8a3	GET	/users	http://localhost:3000
+
+20221016	23:26:23	d05c359f-6f29-49c4-829f-a36fb3c00829	OPTIONS	/users	http://localhost:3000
+
+20221016	23:26:23	f0513511-3cdd-4a27-b9ed-940817a93a6d	GET	/users	http://localhost:3000
+
+20221016	23:26:49	e555b40d-6262-4312-b756-45001b6ee49a	OPTIONS	/users	http://localhost:3000
+
+20221016	23:26:49	fcbe3807-8a36-4157-9c5f-72d0df6cb215	GET	/users	http://localhost:3000
+
+20221016	23:27:12	6d6a8845-103e-4bf1-aab9-3762f6307b32	OPTIONS	/users	http://localhost:3000
+
+20221016	23:27:12	7c178ee9-615c-465c-894b-3c3bed155039	POST	/users	http://localhost:3000
+
+20221016	23:27:12	67cab2d3-5a52-47ac-ab1d-65380bd2040d	GET	/users	http://localhost:3000
+
+20221016	23:27:24	00eb1f52-1dff-439d-8af9-03892717bc1f	OPTIONS	/users	http://localhost:3000
+
+20221016	23:27:24	f253dfab-9b2a-43bd-99e1-7aac183dcad9	GET	/users	http://localhost:3000
+
+20221016	23:27:26	b2b88411-5ae2-4147-bc82-853df1ab617d	OPTIONS	/users	http://localhost:3000
+
+20221016	23:27:26	e9b02b33-80e2-4716-b35d-1fee3b327e3b	POST	/users	http://localhost:3000
+
+20221016	23:27:26	e5850674-71db-4cf8-b7aa-4996cd58fc6a	GET	/users	http://localhost:3000
+
+20221016	23:27:30	0349b8c3-fa8d-4a76-a17a-e95e97c6eed4	OPTIONS	/auth/logout	http://localhost:3000
+
+20221016	23:27:30	ee6d53e5-2c0c-4c52-8934-ed8fe1353d7f	POST	/auth/logout	http://localhost:3000
+
+20221016	23:27:45	67cf3f58-d2af-40c1-9914-bb1686f9ab5c	OPTIONS	/auth/register	http://localhost:3000
+
+20221016	23:27:45	9fb5895b-45a1-4556-9bae-12f0de8f7db5	POST	/auth/register	http://localhost:3000
+
+20221016	23:27:55	acfb32e8-7453-4940-a35d-7c2112219c1e	OPTIONS	/auth	http://localhost:3000
+
+20221016	23:27:55	ef13d09e-5586-40c7-9cac-2fb529b6d533	POST	/auth	http://localhost:3000
+
+20221016	23:27:56	fcdc6c6a-479a-472c-9377-7425ab8d5410	OPTIONS	/users	http://localhost:3000
+
+20221016	23:27:56	5cece970-de9c-43ca-8068-2c68d8cb6b1d	OPTIONS	/cities	http://localhost:3000
+
+20221016	23:27:56	879f446a-8f60-4355-a028-fce746c2a714	GET	/users	http://localhost:3000
+
+20221016	23:27:56	fe8325f4-379e-433d-b6fd-a37deb80e32c	GET	/cities	http://localhost:3000
+
+20221016	23:27:59	32cf6845-56ca-4ed7-b4c4-7c71c7a63626	GET	/users	http://localhost:3000
+
+20221016	23:28:04	2ca9bde3-a84f-46b5-983e-f4174e731340	OPTIONS	/users	http://localhost:3000
+
+20221016	23:28:04	6b0d9f79-b540-4d73-a8d9-10c8dc98d1b3	PATCH	/users	http://localhost:3000
+
+20221016	23:28:05	821d9b25-fe25-408d-afed-c00502d907df	GET	/users	http://localhost:3000
+
+20221016	23:28:08	21973b44-4f74-4a3a-9cfe-913aadbc56a4	OPTIONS	/auth/logout	http://localhost:3000
+
+20221016	23:28:08	46ac0bd1-a271-4f76-9c9f-659024e83843	POST	/auth/logout	http://localhost:3000
+
+20221016	23:28:12	1e04e6ac-038d-48fd-8f09-3ffd6cf31709	OPTIONS	/auth	http://localhost:3000
+
+20221016	23:28:12	442e78c3-9b46-4090-85a8-5f07461e64d3	POST	/auth	http://localhost:3000
+
+20221016	23:28:12	4042a75f-2aaf-4270-ba4f-cde3c5665cea	OPTIONS	/users	http://localhost:3000
+
+20221016	23:28:12	ac9dd56d-cfac-4537-bb35-2a5f061b6c2d	OPTIONS	/cities	http://localhost:3000
+
+20221016	23:28:12	29b82cfe-6a5a-4b51-b9cd-7728553f4a2d	GET	/users	http://localhost:3000
+
+20221016	23:28:12	0a4fde29-932c-4ac4-8e2d-f57e390cf523	GET	/cities	http://localhost:3000
+
+20221016	23:35:31	61a78930-01b3-4156-9161-2ce102904193	OPTIONS	/users	http://localhost:3000
+
+20221016	23:35:31	8efbb87d-1e26-4d68-bd49-f6fe5714c4dd	GET	/users	http://localhost:3000
+
+20221016	23:36:25	d6ae7935-6931-4c93-b290-8731d1e3b92d	OPTIONS	/auth/logout	http://localhost:3000
+
+20221016	23:36:25	7a651bf9-114c-408b-8099-a6afe1b62d46	POST	/auth/logout	http://localhost:3000
+
+20221017	11:01:54	bc439031-9727-456c-9262-17e1b95ba1a1	OPTIONS	/auth	http://localhost:3000
+
+20221017	11:01:55	b9e8c151-aa1f-4ed1-9235-83735cac883c	POST	/auth	http://localhost:3000
+
+20221017	11:01:59	ff6848be-6899-4086-b932-cd220103dd31	OPTIONS	/users	http://localhost:3000
+
+20221017	11:01:59	2eac44aa-e7a0-4cf3-a835-95b13dc5682b	OPTIONS	/cities	http://localhost:3000
+
+20221017	11:01:59	f9b55f9c-11e9-47f5-b686-3313917d286d	GET	/users	http://localhost:3000
+
+20221017	11:01:59	cba9b2ef-a35f-4c6d-8af4-4ead59618521	GET	/cities	http://localhost:3000
+
+20221017	11:02:19	93cb5452-bfde-4136-8e92-a9c700198fc1	GET	/auth/refresh	http://localhost:3000
+
+20221017	11:02:19	bd2b1c09-be1c-45a4-a8a4-4919393e52c3	OPTIONS	/cities	http://localhost:3000
+
+20221017	11:02:19	97b562d2-5f80-41a4-b170-530ed6a150d7	OPTIONS	/users	http://localhost:3000
+
+20221017	11:02:19	37185aea-26b7-4a17-b045-2338cd2f7a47	GET	/users	http://localhost:3000
+
+20221017	11:02:19	af33ed42-84b3-4ed4-9a9e-19be1de210bb	GET	/cities	http://localhost:3000
+
+20221017	11:02:20	a02c61af-0080-4403-94a6-544d7d0dad1d	GET	/cities	http://localhost:3000
+
+20221017	11:20:43	539e98c3-324c-4efb-b1b4-8e4fa6bdf5bc	OPTIONS	/auth/logout	http://localhost:3000
+
+20221017	11:20:43	6969e22f-a0e9-4bc9-93e0-eaa5532f0ef5	POST	/auth/logout	http://localhost:3000
+
+20221017	23:33:09	85432c1e-6bab-4bd7-86db-6a92e52eeaa9	OPTIONS	/auth/register	http://localhost:3000
+
+20221017	23:33:09	276ed1b6-6fbe-4bdf-a0b4-a2c879f1c0aa	POST	/auth/register	http://localhost:3000
+
+20221017	23:44:13	38924059-2b5b-4ec4-b7ce-ac7346b1773a	OPTIONS	/auth/register	http://localhost:3000
+
+20221017	23:44:13	77329850-d8cb-4376-9d8b-ac2d70732fa2	POST	/auth/register	http://localhost:3000
+
+20221019	11:29:54	59504474-11ad-47f7-8fe4-cd6ac2f17571	OPTIONS	/auth	http://localhost:3000
+
+20221019	11:29:54	83a8b844-0adb-4f92-9de0-cbdebb81b377	POST	/auth	http://localhost:3000
+
+20221019	11:29:55	69c46a2a-4a7e-4eaf-977e-f6a5d892aef2	OPTIONS	/users	http://localhost:3000
+
+20221019	11:29:55	d36ddf14-d665-43a0-b6d3-049a8eeda282	OPTIONS	/cities	http://localhost:3000
+
+20221019	11:29:55	45422ae2-6ac3-4d1f-b05d-fc8c0c1327f3	GET	/users	http://localhost:3000
+
+20221019	11:29:55	378fe147-d86a-4367-89ec-7c1cd7d7a2f6	GET	/cities	http://localhost:3000
+
+20221019	11:29:59	be1d5835-8734-4a54-8972-c113ebfaaed6	GET	/users	http://localhost:3000
+
+20221019	11:30:05	05627a54-bfcb-4a9f-840a-eb5475640dbd	OPTIONS	/auth/logout	http://localhost:3000
+
+20221019	11:30:05	8eff9cee-bed1-4e0e-9099-d3f59a8a2ca5	POST	/auth/logout	http://localhost:3000
+
+20221019	11:39:28	539478c8-ec83-402e-b06d-cabd6d84f408	OPTIONS	/auth/register	http://localhost:3000
+
+20221019	11:39:28	457e7602-0188-4327-ab72-88d47f17bfd8	POST	/auth/register	http://localhost:3000
+
+20221019	11:39:51	33746694-6567-4031-9c3c-d586e477f2b7	OPTIONS	/auth	http://localhost:3000
+
+20221019	11:39:51	1e4bffd2-36a6-4aad-9c81-b94e48076f08	POST	/auth	http://localhost:3000
+
+20221019	11:39:52	0e6d5d34-3ee1-4098-9d7c-d8a7d497e4e1	OPTIONS	/users	http://localhost:3000
+
+20221019	11:39:52	18c9326b-03c7-4a88-9e8b-486f676c9e93	OPTIONS	/cities	http://localhost:3000
+
+20221019	11:39:52	595cb6b4-b72f-4344-acb5-f89baf507701	GET	/users	http://localhost:3000
+
+20221019	11:39:52	eaab0a28-25b1-420c-b4a1-6ed4cd1ec7c2	GET	/cities	http://localhost:3000
+
+20221019	11:40:04	82cc582b-acc8-4c0c-9a6d-0b89821dd280	OPTIONS	/users	http://localhost:3000
+
+20221019	11:40:04	3cd12ca6-57ee-4a12-9dc8-aeefae704f59	GET	/users	http://localhost:3000
+
+20221019	11:40:07	e74e00bd-8c2d-4f5d-89ce-3090c12ccd1d	OPTIONS	/auth/logout	http://localhost:3000
+
+20221019	11:40:07	b71d327a-ce7c-4601-94c0-72bfc16f0fae	POST	/auth/logout	http://localhost:3000
+
+20221019	11:40:26	e5950653-9072-4d1e-b01e-d5b9bc985eae	OPTIONS	/auth/register	http://localhost:3000
+
+20221019	11:40:26	f07fa9e6-75fd-495f-aebe-305232d33dfb	POST	/auth/register	http://localhost:3000
+
+20221019	11:40:41	eb1360f1-4e37-43e1-ac3b-73a00e2cbb66	OPTIONS	/auth/register	http://localhost:3000
+
+20221019	11:40:41	44a48e38-cf1c-4c02-96bf-34f67a3ffb2b	POST	/auth/register	http://localhost:3000
+
+20221019	11:40:50	f93aadcc-46f2-4c07-97cc-d7b0d18fd679	OPTIONS	/auth	http://localhost:3000
+
+20221019	11:40:50	8c2643fe-3189-4cf5-8406-adbbe88344de	POST	/auth	http://localhost:3000
+
+20221019	11:40:50	43e726e0-57e0-4b6c-b2e3-c53a76fdc0cf	OPTIONS	/users	http://localhost:3000
+
+20221019	11:40:50	4eab6f65-0075-4937-882d-6430e9eadd0c	OPTIONS	/cities	http://localhost:3000
+
+20221019	11:40:50	1efce077-62de-4648-841b-d14c711c77a2	GET	/users	http://localhost:3000
+
+20221019	11:40:50	e40e73f3-03e9-481e-aa4b-4d84391eb52d	GET	/cities	http://localhost:3000
+
+20221019	11:40:53	3ec4e844-6507-48b6-94ae-e9667513f6cf	GET	/users	http://localhost:3000
+
+20221019	11:40:56	8d9eaf9e-0c8d-4745-9ab3-54231d0c84a8	OPTIONS	/auth/logout	http://localhost:3000
+
+20221019	11:40:56	531f53c0-277c-425d-968b-1deccb432192	POST	/auth/logout	http://localhost:3000
+
+20221019	17:55:14	b0395d7a-f451-4611-9d3f-f42ee843f765	OPTIONS	/auth/register	http://localhost:3000
+
+20221019	17:55:14	9332782b-c6c3-4f3b-b7c1-c217b43af4bb	POST	/auth/register	http://localhost:3000
+
+20221019	17:58:53	f2404654-e39b-42ff-8416-75eeec469efe	OPTIONS	/auth	http://localhost:3000
+
+20221019	17:58:53	db065bfe-e3fa-4a3d-8cbd-3e744f4e27fa	POST	/auth	http://localhost:3000
+
+20221019	17:58:53	b795bc16-9f53-4444-8441-cacea05c1a84	OPTIONS	/users	http://localhost:3000
+
+20221019	17:58:53	caf6a424-1434-4542-867f-3aca7f34d263	OPTIONS	/cities	http://localhost:3000
+
+20221019	17:58:53	dfb07dc8-6ac1-4e96-971f-46130c416b93	GET	/users	http://localhost:3000
+
+20221019	17:58:54	ec5bfcf3-e6cb-4ccd-a28f-6473adb17385	GET	/cities	http://localhost:3000
+
+20221019	17:58:57	61b27de3-0a6d-418c-8b9c-73bcbd5e9acf	GET	/users	http://localhost:3000
+
+20221019	17:59:01	9a6ff1fc-88e7-4dc8-a617-00eb6709b20b	OPTIONS	/auth/logout	http://localhost:3000
+
+20221019	17:59:01	acd85a21-a07c-4709-a6ca-454190e65e2e	POST	/auth/logout	http://localhost:3000
+
+20221019	17:59:19	6ae2baff-665f-4027-9327-9a227feb5355	OPTIONS	/auth/register	http://localhost:3000
+
+20221019	17:59:19	05f06f75-f389-4127-bbd9-90245eec39df	POST	/auth/register	http://localhost:3000
+
+20221019	17:59:41	5d3640bb-78f5-4003-acf7-d368136df03b	OPTIONS	/auth	http://localhost:3000
+
+20221019	17:59:41	c1c0853a-3efc-4e70-b1be-e69ec4038523	POST	/auth	http://localhost:3000
+
+20221019	17:59:42	1009e012-2922-4569-aaf0-e576a03dd899	OPTIONS	/users	http://localhost:3000
+
+20221019	17:59:42	0cbe5ad7-629b-438e-ad1e-6c9fc7123d1a	OPTIONS	/cities	http://localhost:3000
+
+20221019	17:59:42	79a281f3-2a7f-49ca-b863-7d2fbb1536fd	GET	/users	http://localhost:3000
+
+20221019	17:59:42	17f69fe5-58dd-49fd-8f7f-06edcfeb2b2c	GET	/cities	http://localhost:3000
+
+20221019	17:59:45	9ee95307-529e-438f-a10a-8343959c3d14	GET	/users	http://localhost:3000
+
+20221019	18:00:46	45c6daf8-b6cf-463a-bca6-b66e08ee7d65	OPTIONS	/users	http://localhost:3000
+
+20221019	18:00:46	ef2c3a74-3b71-47fb-a835-4db122e09480	GET	/users	http://localhost:3000
+
+20221019	18:01:09	9e40d9b0-6df5-4da8-baf7-30d5ceb4e434	OPTIONS	/users	http://localhost:3000
+
+20221019	18:01:09	def0d4eb-0c8c-4d07-9dca-53014b202ae9	GET	/users	http://localhost:3000
+
+20221019	18:01:36	9d7e3bc2-3683-4258-9a8f-99453686ce70	OPTIONS	/users	http://localhost:3000
+
+20221019	18:01:36	95f5e87d-f1cb-42d7-9eb0-c66ad286b044	GET	/users	http://localhost:3000
+
+20221019	18:01:36	f4ef690c-1f23-41a0-bcf0-3217e6fef838	GET	/users	http://localhost:3000
+
+20221019	18:01:38	c11384ca-d4d0-4202-9c33-74b3239deea0	OPTIONS	/auth/logout	http://localhost:3000
+
+20221019	18:01:38	23cb298a-1ff6-4349-9685-60f9096e7051	POST	/auth/logout	http://localhost:3000
+
+20221019	18:02:34	a0affb91-dc6c-4b9f-ab91-48f960dbdc8c	OPTIONS	/auth/register	http://localhost:3000
+
+20221019	18:02:34	28127ed4-e5d1-4125-addc-401755021200	POST	/auth/register	http://localhost:3000
+
+20221019	18:16:51	e067acb3-4a94-4a04-bf11-cd76874adac2	OPTIONS	/auth/register	http://localhost:3000
+
+20221019	18:16:52	dc141b6d-b9a1-4d6b-b932-76e2700ad8ce	POST	/auth/register	http://localhost:3000
+
+20221019	18:17:15	8dbc6027-8118-48bf-8df6-dbb609e71bc7	OPTIONS	/auth	http://localhost:3000
+
+20221019	18:17:15	729866eb-8501-4777-b507-2f2257defb7a	POST	/auth	http://localhost:3000
+
+20221019	18:17:15	392e6095-cfd7-4100-8ea9-2168751d2c3e	OPTIONS	/users	http://localhost:3000
+
+20221019	18:17:15	ef814b1b-f71e-4e3f-813a-7fdd1bbcc46e	OPTIONS	/cities	http://localhost:3000
+
+20221019	18:17:15	36c695eb-ede0-4188-80bd-a3dab3a6f579	GET	/users	http://localhost:3000
+
+20221019	18:17:15	a76d4eb1-6f09-4a4b-8d92-0d0b7036768a	GET	/cities	http://localhost:3000
+
+20221019	18:17:33	34ac1b3b-1f7c-414e-9eb7-16f67f62fb71	OPTIONS	/auth/logout	http://localhost:3000
+
+20221019	18:17:33	f667d612-e0aa-485a-9fd5-9513bfe12904	POST	/auth/logout	http://localhost:3000
+
+20221019	18:17:38	ce16d02b-cbec-446f-9ba3-3620f58b5fc1	OPTIONS	/auth	http://localhost:3000
+
+20221019	18:17:38	18855b3e-3d58-446b-8259-366fdd20cdfc	POST	/auth	http://localhost:3000
+
+20221019	18:17:38	26cd5a6a-624b-4b9a-b467-141d4ce76975	OPTIONS	/users	http://localhost:3000
+
+20221019	18:17:38	ea1bb133-7c7d-4216-a886-ae81782264f2	OPTIONS	/cities	http://localhost:3000
+
+20221019	18:17:38	d2de5e65-d2b6-4d7d-8c07-136e48466b91	GET	/users	http://localhost:3000
+
+20221019	18:17:38	2e3ebfe2-318b-40e0-828c-c699e00f6580	GET	/cities	http://localhost:3000
+
+20221019	18:17:42	472177da-e36a-4a33-bda7-e3c36ab1f8af	GET	/users	http://localhost:3000
+
+20221019	18:17:45	3d63d883-4038-42b0-a2de-fef4280d7911	OPTIONS	/users	http://localhost:3000
+
+20221019	18:17:45	26b1dad4-a373-49b8-b50e-808b81ce1d3a	DELETE	/users	http://localhost:3000
+
+20221019	18:17:45	e6593c8f-ba35-412c-9165-f5f586b997fd	GET	/users	http://localhost:3000
+
+20221019	18:17:48	e6ebe259-8f7a-468e-9d2c-7c3df71f275f	OPTIONS	/auth/logout	http://localhost:3000
+
+20221019	18:17:48	7369b9d7-e62f-4889-b215-c7889869fbe0	POST	/auth/logout	http://localhost:3000
+
+20221019	18:27:44	b1d0fa92-2cd7-4c65-8acb-288f4a688071	OPTIONS	/auth/register	http://localhost:3000
+
+20221019	18:27:44	fcd862b1-adf6-4a8b-8e3a-56352a670917	POST	/auth/register	http://localhost:3000
+
+20221019	18:28:14	644db95c-b85c-4c90-a5d3-b05c4adaa5c2	OPTIONS	/auth	http://localhost:3000
+
+20221019	18:28:14	349b065b-70dc-4bff-a08b-5b5098b43e85	POST	/auth	http://localhost:3000
+
+20221019	18:28:15	a99582d4-b445-4790-9245-752641fd0cca	OPTIONS	/users	http://localhost:3000
+
+20221019	18:28:15	e7ba1604-7cf8-46d0-9db6-c4469cc78fb9	OPTIONS	/cities	http://localhost:3000
+
+20221019	18:28:15	52bc80f7-8bef-4910-99e1-2819823a92b2	GET	/users	http://localhost:3000
+
+20221019	18:28:15	86d47a4d-699a-4239-b32f-58cf242a996d	GET	/cities	http://localhost:3000
+
+20221019	18:28:20	ba29cabb-861e-4d49-a75c-0b3d3afddde3	OPTIONS	/auth/logout	http://localhost:3000
+
+20221019	18:28:20	b3eaad42-f577-45ad-b148-8fc631939db5	POST	/auth/logout	http://localhost:3000
+
+20221019	18:28:55	584a0e34-eb4b-41e3-b95d-b5f85e484cef	OPTIONS	/auth	http://localhost:3000
+
+20221019	18:28:55	03a1be6b-9ef0-410b-b67e-82db8aaa7a5d	POST	/auth	http://localhost:3000
+
+20221019	18:28:56	27934ee4-9b0f-4221-b199-df7e8dff2c32	OPTIONS	/users	http://localhost:3000
+
+20221019	18:28:56	62b630d9-906c-4811-a686-32f68945c27a	OPTIONS	/cities	http://localhost:3000
+
+20221019	18:28:56	2f235f24-3f65-448e-b742-80cfb437ba24	GET	/users	http://localhost:3000
+
+20221019	18:28:56	ca915938-02c5-45d3-be60-4602ff812a0c	GET	/cities	http://localhost:3000
+
+20221019	18:29:01	d5b2c212-e863-4efe-a55e-3376f02b7c5f	GET	/users	http://localhost:3000
+
+20221019	18:30:02	64809e36-d5b1-4402-8fe8-8e650a274062	OPTIONS	/users	http://localhost:3000
+
+20221019	18:30:02	838af841-d645-4f3d-a3c2-206df396722f	GET	/users	http://localhost:3000
+
+20221019	18:31:03	d3efc2d8-9272-496d-a351-fc1ba9c3ed41	OPTIONS	/users	http://localhost:3000
+
+20221019	18:31:03	9b5e1442-67cc-4636-a38c-1105420d730b	GET	/users	http://localhost:3000
+
+20221019	18:32:04	74ea6223-db13-435c-9d6f-f79e4c143f1b	OPTIONS	/users	http://localhost:3000
+
+20221019	18:32:04	4e5c127a-7b2c-4543-93d7-a9d77e0113c2	GET	/users	http://localhost:3000
+
+20221019	18:33:05	40843ea7-9c6e-418f-8998-cc6e34a4bfda	OPTIONS	/users	http://localhost:3000
+
+20221019	18:33:05	81264b9e-de40-436a-995c-3b36a179aa7e	GET	/users	http://localhost:3000
+
+20221019	18:34:06	8cf7cca8-09ae-4f87-84e4-d2a7e67e5480	OPTIONS	/users	http://localhost:3000
+
+20221019	18:34:06	60b1f90e-4f72-462a-9eab-0698bc5f43cd	GET	/users	http://localhost:3000
+
+20221019	18:35:07	46b5ffc9-e705-4a30-ac28-9ecf7d4920f3	OPTIONS	/users	http://localhost:3000
+
+20221019	18:35:07	bcd9a940-c692-43a5-9e6d-a72596dbe3de	GET	/users	http://localhost:3000
+
+20221019	18:36:08	fec3744b-5345-4fce-b78f-ae4cf5195848	OPTIONS	/users	http://localhost:3000
+
+20221019	18:36:08	8b482797-0afd-463b-b83e-5d4b3318b61f	GET	/users	http://localhost:3000
+
+20221019	18:37:09	ffeb95c9-b802-41fa-beb6-c605d26a44c5	OPTIONS	/users	http://localhost:3000
+
+20221019	18:37:09	6eac306c-e9c4-4499-b18e-cbc18a3ee722	GET	/users	http://localhost:3000
+
+20221019	18:38:10	df63bce9-948a-4829-9126-a14b40114f65	OPTIONS	/users	http://localhost:3000
+
+20221019	18:38:10	3b6117be-cd88-4952-be93-be0b84bc5640	GET	/users	http://localhost:3000
+
+20221019	18:38:19	89ad26f8-ed72-42a4-8725-e2d5bfdcaab1	OPTIONS	/users	http://localhost:3000
+
+20221019	18:38:19	f9692773-a90e-4d7d-8ff8-5c4f30c03d65	GET	/users	http://localhost:3000
+
+20221019	18:38:20	0667d185-e55b-495d-aaba-611f1d3e210b	GET	/users	http://localhost:3000
+
+20221019	18:38:23	0b138d19-e479-415a-8295-e5c4bde24d6d	OPTIONS	/auth/logout	http://localhost:3000
+
+20221019	18:38:23	293aa434-b73b-44cc-88a9-6a9447cd02fb	POST	/auth/logout	http://localhost:3000
+
+20221019	18:39:04	c594f16e-3e57-42c6-808c-4b53ee78f156	OPTIONS	/auth	http://localhost:3000
+
+20221019	18:39:04	633ff48c-8620-4dd6-9461-3a9da0a3272b	POST	/auth	http://localhost:3000
+
+20221019	18:39:05	fe447681-f2b2-4264-a995-134ea77468b3	OPTIONS	/users	http://localhost:3000
+
+20221019	18:39:06	50b1f962-3c00-42de-bc4e-7de92b85aeae	OPTIONS	/cities	http://localhost:3000
+
+20221019	18:39:08	3c1fdba3-5476-4cd9-8a58-6ed40e65891e	GET	/users	http://localhost:3000
+
+20221019	18:39:08	280e744d-2988-48d7-9930-eab8bee9f81d	GET	/cities	http://localhost:3000
+
+20221019	18:39:09	2462d53e-8694-4e1d-b0f6-2771c6acc0e1	GET	/users	http://localhost:3000
+
+20221019	18:39:13	4adc8f82-f049-42d9-b885-3745626d26fe	OPTIONS	/users	http://localhost:3000
+
+20221019	18:39:13	4359fbaf-07b4-42d9-bcfa-ac1424e49d82	DELETE	/users	http://localhost:3000
+
+20221019	18:39:14	a0a07bf9-d21c-4439-8080-8588da5d6254	GET	/users	http://localhost:3000
+
+20221019	18:39:15	afc95ca2-a612-43b9-a85f-262c905d9202	OPTIONS	/auth/logout	http://localhost:3000
+
+20221019	18:39:15	0ddd2d55-e28f-4ca1-89a1-fe8b636e0f60	POST	/auth/logout	http://localhost:3000
+
+20221020	07:37:48	42ac4a79-8dbc-4d54-acae-4812cd32eec3	OPTIONS	/auth/register	http://localhost:3000
+
+20221020	07:37:49	d6dff31f-0155-42be-a7c5-006a91084236	POST	/auth/register	http://localhost:3000
+
+20221020	07:51:10	22eebcf6-3361-421d-94d5-1229b73849cb	OPTIONS	/auth/register	http://localhost:3000
+
+20221020	07:51:10	e6a88ed6-86c1-4033-89c9-bede8c6b7a6c	POST	/auth/register	http://localhost:3000
+
+20221020	07:56:22	ca35779f-1486-4a99-86d3-8554cf96b804	OPTIONS	/auth/register	http://localhost:3000
+
+20221020	07:56:22	5e0f1f60-5255-460e-9457-9c2cf8c549cc	POST	/auth/register	http://localhost:3000
+
+20221020	08:45:37	83fe6f5e-6f41-4421-8d11-55f64f65371a	OPTIONS	/auth/register	http://localhost:3000
+
+20221020	08:45:37	4979574d-e7bf-48bb-bdbd-db56f3d50d3f	POST	/auth/register	http://localhost:3000
+
+20221020	08:57:53	56b00da7-b6a5-41d4-9e69-d02cb0b3db5b	OPTIONS	/auth/register	http://localhost:3000
+
+20221020	08:57:53	ab30875d-3baf-46b3-a1b7-cb3477e1424e	POST	/auth/register	http://localhost:3000
+
+20221020	19:25:34	395b3751-f216-4f80-b955-3e3a34d617b1	OPTIONS	/auth/register	http://localhost:3000
+
+20221020	19:25:34	f730d388-9897-468d-91ab-55f222e51d6d	POST	/auth/register	http://localhost:3000
+
+20221020	19:56:20	ec72e4f8-08ad-406b-9aad-9896eb5f2bdb	OPTIONS	/auth/register	http://localhost:3000
+
+20221020	19:56:20	7cdec268-55ec-416e-aefa-4457ddd4cae7	POST	/auth/register	http://localhost:3000
+
+20221020	19:56:34	8f55f7a7-28bf-4dac-9e9f-293aa401718f	OPTIONS	/auth/register	http://localhost:3000
+
+20221020	19:56:34	b780b97e-a695-478b-9b07-0eb38ea29ffe	POST	/auth/register	http://localhost:3000
+
+20221020	19:57:05	627d02f3-1d08-481c-8ec6-796a535fda00	OPTIONS	/auth/register	http://localhost:3000
+
+20221020	19:57:05	a6a6e879-d932-43d2-a5e2-0cf6a41eb2e2	POST	/auth/register	http://localhost:3000
+
+20221020	20:16:31	823d3476-9918-4829-b6ee-67e64eed1546	OPTIONS	/auth/register	http://localhost:3000
+
+20221020	20:16:31	f6e5c9ad-bb90-41a6-bc8b-d275510a11ef	POST	/auth/register	http://localhost:3000
+
+20221020	20:26:28	464c2b55-d604-44aa-9456-8f1dece81197	OPTIONS	/auth/register	http://localhost:3000
+
+20221020	20:26:28	efb281f8-4bcc-416e-b25a-3cb6c2538da6	POST	/auth/register	http://localhost:3000
+
+20221020	20:26:49	3c067177-a0c8-4067-b976-e4b1f966a673	GET	/NaijaCities	undefined
+
+20221020	20:26:50	b4da1a7d-678b-4caf-bb40-37d872229035	GET	/favicon.ico	undefined
+
+20221020	20:26:54	62d287b3-da45-4032-ae79-2c36ff478705	GET	/auth	undefined
+
+20221020	20:27:01	a500a20f-79c7-489a-8f46-04449e2e59e7	GET	/auth/register	undefined
+
+20221020	20:27:42	c2adf6f1-ef65-4ba9-845b-838e1a314a0c	GET	/auth/register	undefined
+
+20221020	20:27:56	83e726d7-3c8d-4954-83a1-15c16e440c6f	GET	/users	undefined
+
+20221020	20:28:01	6334258a-ecf0-4d07-bcf4-747a92c24c75	GET	/cities	undefined
+
+20221020	20:47:11	2f9e700c-7479-4678-8045-32daf269713b	OPTIONS	/auth/register	http://localhost:3000
+
+20221020	20:47:11	c12ee8b9-90eb-4624-808d-8f2087fd76b2	POST	/auth/register	http://localhost:3000
+
+20221021	10:49:44	1001a4e7-3488-47c3-8354-1f90a68a0860	OPTIONS	/auth/register	http://localhost:3000
+
+20221021	10:49:44	0daa64c3-5c00-4274-9b0d-60f97dbeae03	POST	/auth/register	http://localhost:3000
+
+20221021	10:51:52	835ab0d3-a241-4931-8a31-0fd5a2497d3a	OPTIONS	/auth	http://localhost:3000
+
+20221021	10:51:52	6e7b35a4-ab94-4989-8cb1-afae1c61b4e8	POST	/auth	http://localhost:3000
+
+20221021	10:51:53	3096a93d-56ad-4df5-81ed-93474d44d181	OPTIONS	/users	http://localhost:3000
+
+20221021	10:51:53	b81bd593-8929-4063-87d7-407cc2693f21	OPTIONS	/cities	http://localhost:3000
+
+20221021	10:51:53	552e9622-5705-4ad8-a7ad-fba7158274f2	GET	/cities	http://localhost:3000
+
+20221021	10:51:53	1fbfff5d-f96a-4922-a842-baf391f952f3	GET	/users	http://localhost:3000
+
+20221021	19:27:24	bccdffee-b51e-4b3f-be1c-ccf176e858fa	OPTIONS	/users	http://localhost:3000
+
+20221021	19:27:24	62f851bf-0cce-48ec-a742-c619d25e0359	GET	/users	http://localhost:3000
+
+20221021	19:27:24	5e7ad436-befc-494f-b10e-f446daa31732	OPTIONS	/auth/refresh	http://localhost:3000
+
+20221021	19:27:24	42cdcfa6-1f82-4422-949e-4503f73a3694	GET	/auth/refresh	http://localhost:3000
+
+20221021	19:27:26	eaee4886-32fa-43dc-9183-56f6b9c5789d	GET	/users	http://localhost:3000
+
+20221021	19:27:35	a3abb2c2-0150-4b3d-b7d8-2c55fdad81b7	OPTIONS	/users	http://localhost:3000
+
+20221021	19:27:35	8a9763e4-475c-41f8-9064-c1cba2f425a8	GET	/users	http://localhost:3000
+
+20221021	19:28:36	729013e0-c93d-404b-a9b4-1fa8ce60e87f	OPTIONS	/users	http://localhost:3000
+
+20221021	19:28:36	68191e6f-121c-4fa8-aa8e-7c7679ab26ef	GET	/users	http://localhost:3000
+
+20221021	19:29:37	bfaffe03-2efa-471c-a203-af3c24c40ca5	OPTIONS	/users	http://localhost:3000
+
+20221021	19:29:37	449f0c2d-07b8-45a1-b6f5-aa47d639c45f	GET	/users	http://localhost:3000
+
+20221021	19:30:38	689c25f4-e4ee-4702-aa78-5b8c8c823fef	OPTIONS	/users	http://localhost:3000
+
+20221021	19:30:38	79069749-70a1-46c4-92c4-ae18ab63c1b0	GET	/users	http://localhost:3000
+
+20221021	19:51:07	eb22767c-89c0-4228-a45e-4e30c61a6952	OPTIONS	/auth	http://localhost:3000
+
+20221021	19:51:07	1534fde3-66c3-47b6-bdff-74a040af9151	POST	/auth	http://localhost:3000
+
+20221021	19:51:08	0beb0204-191e-4423-b529-b0f436cef08e	OPTIONS	/users	http://localhost:3000
+
+20221021	19:51:08	63c17faa-5a25-4bae-8523-82ad942ada45	OPTIONS	/cities	http://localhost:3000
+
+20221021	19:51:08	1650543a-6599-4065-a336-e010611f42c4	GET	/users	http://localhost:3000
+
+20221021	19:51:08	81f0ea78-5c0a-4a47-afbd-0bb1e35c75d5	GET	/cities	http://localhost:3000
+
+20221021	19:51:11	dac79b1c-6861-4a30-9beb-d5264d121e18	GET	/users	http://localhost:3000
+
+20221021	19:51:15	96f98fc9-957e-48f5-8189-006ac80014df	OPTIONS	/users	http://localhost:3000
+
+20221021	19:51:15	0ca9b741-e327-47b1-8cf1-c366c59eb6fe	DELETE	/users	http://localhost:3000
+
+20221021	19:51:15	4a479054-b055-4c44-a8bd-25bdff5f9c2a	GET	/users	http://localhost:3000
+
+20221021	19:51:18	74f90f6b-aaa5-48dd-9e80-f696cf646d4e	OPTIONS	/auth/logout	http://localhost:3000
+
+20221021	19:51:18	fcc710b2-84e6-4004-990a-f5c9e46a4d82	POST	/auth/logout	http://localhost:3000
+
+20221021	20:17:01	d081caa5-1072-4124-b2f1-d7311e34f48f	OPTIONS	/auth/register	http://localhost:3000
+
+20221021	20:17:01	9e0c7e83-58f1-4ea7-9a62-5521e21276aa	POST	/auth/register	http://localhost:3000
+
+20221021	20:17:13	e10dd160-1c69-4f1a-9013-9437ffe5bcab	OPTIONS	/auth	http://localhost:3000
+
+20221021	20:17:13	ba81731b-c09b-4861-99ea-095a026677ef	POST	/auth	http://localhost:3000
+
+20221021	20:17:14	3623caf7-fc87-42d2-ba5c-a352f474c0d3	OPTIONS	/users	http://localhost:3000
+
+20221021	20:17:14	2a323c0c-0778-4bdb-8d29-93025ae421c1	OPTIONS	/cities	http://localhost:3000
+
+20221021	20:17:14	5b15fb4b-7630-43af-ada5-0e02e2cf4188	GET	/users	http://localhost:3000
+
+20221021	20:17:14	c096e4e2-4146-4291-a5cf-c0b978802e77	GET	/cities	http://localhost:3000
+
+20221021	20:17:21	c8dbe6de-d963-4a7c-ae47-1f4856ceb0bd	OPTIONS	/users	http://localhost:3000
+
+20221021	20:17:21	554c3278-7ae9-4115-93ac-761cac11b72c	GET	/users	http://localhost:3000
+
+20221021	20:17:59	ef8f6ff9-2e24-40e6-8490-2eecdd078d35	OPTIONS	/users	http://localhost:3000
+
+20221021	20:17:59	1a38bcde-464e-469b-b246-7059e91a4f8a	GET	/users	http://localhost:3000
+
+20221021	20:18:03	aa2a9f98-9699-473e-ab97-43ce26529895	OPTIONS	/users	http://localhost:3000
+
+20221021	20:18:03	1e63231b-f992-45b1-b37d-a3f52121a695	DELETE	/users	http://localhost:3000
+
+20221021	20:18:04	d7549cbf-c421-4fe9-97be-7c9ab3140293	GET	/users	http://localhost:3000
+
+20221021	20:18:05	d45759ca-aece-4425-85c8-ea3cbf479b88	OPTIONS	/auth/logout	http://localhost:3000
+
+20221021	20:18:05	e33aed82-8e5d-4325-b8c0-f7dc004e7ffe	POST	/auth/logout	http://localhost:3000
+
+20221021	20:28:00	0d47ac88-6ee0-4857-9cb5-586e67c4c11b	OPTIONS	/auth/register	http://localhost:3000
+
+20221021	20:28:01	08f5174b-40d9-4b04-b9ac-6f775fbd1fda	POST	/auth/register	http://localhost:3000
+
+20221021	20:28:19	70df062e-03f6-4c72-9601-26cdf10eeba3	OPTIONS	/auth	http://localhost:3000
+
+20221021	20:28:19	b5b46df4-0fa5-4c21-8afd-88233d2f3e66	POST	/auth	http://localhost:3000
+
+20221021	20:28:20	e10bb29d-3139-4926-a75f-2c4d5d8d4bb9	OPTIONS	/users	http://localhost:3000
+
+20221021	20:28:20	6eef3d0b-f5a0-4dbb-8b95-c659355010fb	OPTIONS	/cities	http://localhost:3000
+
+20221021	20:28:20	d62fc23d-a83a-4b45-9845-2bf517ff5ec8	GET	/users	http://localhost:3000
+
+20221021	20:28:20	02da46e7-d37e-4caa-8204-117dd7e7e1d7	GET	/cities	http://localhost:3000
+
+20221021	20:28:27	a3e5b601-5426-43e9-b590-b2de2f483cfd	OPTIONS	/users	http://localhost:3000
+
+20221021	20:28:27	70289727-e438-4101-a222-d394e186867c	GET	/users	http://localhost:3000
+
+20221021	20:28:32	338b8c2c-8f1c-43f4-8d46-53b26281d4b2	OPTIONS	/users	http://localhost:3000
+
+20221021	20:28:32	a0c0f055-8e5c-470a-9ff5-1d45f7b5de99	DELETE	/users	http://localhost:3000
+
+20221021	20:28:33	75c2714c-7de7-4677-b3e2-064d0cdd232d	GET	/users	http://localhost:3000
+
+20221021	20:28:35	c3b237bd-32c2-4626-bee7-b2f2850a8e8c	OPTIONS	/auth/logout	http://localhost:3000
+
+20221021	20:28:35	fdfad09c-9dc1-496c-b0f0-11eb04a137fd	POST	/auth/logout	http://localhost:3000
+
+20221021	20:30:51	de069f17-9ec1-4c03-ae7f-087a83c12de4	OPTIONS	/auth/register	http://localhost:3000
+
+20221021	20:30:51	58387c25-5a2a-4426-adae-f26d9eaf0419	POST	/auth/register	http://localhost:3000
+
+20221021	20:32:00	60524fd4-8716-416f-a8a0-4c2f1e4d4999	OPTIONS	/auth/register	http://localhost:3000
+
+20221021	20:32:00	0acfd9ea-eb7d-43c1-a7a8-28b1633fe74b	POST	/auth/register	http://localhost:3000
+
+20221021	20:32:09	d330747f-beea-4bac-9409-48d730e3b886	OPTIONS	/auth/register	http://localhost:3000
+
+20221021	20:32:09	a3f6b03d-e04d-44e7-a752-a92c0ff4ade3	POST	/auth/register	http://localhost:3000
+
+20221021	20:32:24	6a34c5cd-4f5f-4cf9-8e5b-858f431f2ab2	OPTIONS	/auth	http://localhost:3000
+
+20221021	20:32:24	21e3eebf-fdce-4850-9db1-d18db3839c85	POST	/auth	http://localhost:3000
+
+20221021	20:32:24	9d9107a7-4f0b-4281-a5eb-f20e1e8c9d3b	OPTIONS	/users	http://localhost:3000
+
+20221021	20:32:24	fbfe6bae-b515-448f-b421-4ec02101b365	OPTIONS	/cities	http://localhost:3000
+
+20221021	20:32:24	ddf88ddc-2c7c-4775-821e-fc6f82629f51	GET	/users	http://localhost:3000
+
+20221021	20:32:24	d5052e7d-21f2-4fa8-a612-85e0cd660de6	GET	/cities	http://localhost:3000
+
+20221021	20:32:27	ece0c40e-0780-4b46-8561-1488dda3623f	GET	/users	http://localhost:3000
+
+20221021	20:32:30	b3b11d55-7fce-4a76-b52f-796c15e7c114	OPTIONS	/users	http://localhost:3000
+
+20221021	20:32:30	00acdf54-c8d1-4ae1-bb4d-20a9d65fc4d6	DELETE	/users	http://localhost:3000
+
+20221021	20:32:30	d7d042f3-26c1-4f70-87ed-28dbca08084f	GET	/users	http://localhost:3000
+
+20221021	20:32:34	300fd530-9a38-49f3-9a00-06c862cdf5ff	DELETE	/users	http://localhost:3000
+
+20221021	20:32:35	1fecbc1a-eaa8-43c4-a260-19eee480ca8c	OPTIONS	/users	http://localhost:3000
+
+20221021	20:32:35	355a0af5-dc32-426c-91af-a42bb8486b14	GET	/users	http://localhost:3000
+
+20221021	20:32:37	54f120d5-3b76-4c63-8a26-591ba385f16b	OPTIONS	/auth/logout	http://localhost:3000
+
+20221021	20:32:37	848e3640-1c11-4aac-8a5e-9ceb90555fd8	POST	/auth/logout	http://localhost:3000
+
+20221021	20:49:00	a2fe5880-a065-48f7-99b6-566d4c3135d2	GET	/users	undefined
+
+20221021	20:49:00	670b764b-d679-47c2-84d1-bb340261854b	GET	/favicon.ico	undefined
+
+20221022	21:00:24	68a646ea-b5d4-4a85-9655-5e805acb5412	OPTIONS	/auth/register	http://localhost:3000
+
+20221022	21:00:24	00ac1b9f-0601-4ee5-b628-a769eef78fec	POST	/auth/register	http://localhost:3000
+
+20221022	21:00:43	bc4d4e7b-eff0-4455-876b-369820b8fddf	OPTIONS	/auth	http://localhost:3000
+
+20221022	21:00:43	1d21bd87-4ceb-4360-88b8-f1b144f188c8	POST	/auth	http://localhost:3000
+
+20221022	21:00:43	ebd0628c-8a2c-4766-9e33-03792bf95fd6	OPTIONS	/users	http://localhost:3000
+
+20221022	21:00:43	ef0e65df-b91c-455e-b5a3-5034e0100d2b	GET	/users	http://localhost:3000
+
+20221022	21:00:43	f0178a94-842e-443c-adde-a0c8109aa016	OPTIONS	/cities	http://localhost:3000
+
+20221022	21:00:43	5fea6a05-7e95-4deb-a874-534bb736ff7b	GET	/cities	http://localhost:3000
+
+20221022	21:00:48	4ca98771-d4bb-4745-800c-ce4865ec95ac	GET	/users	http://localhost:3000
+
+20221022	21:00:55	c93dd606-9e7f-4073-9027-ef605bb09c1b	OPTIONS	/users	http://localhost:3000
+
+20221022	21:00:55	5c9e726c-f0ac-4cf9-a8ff-e4c2cf4b165d	DELETE	/users	http://localhost:3000
+
+20221022	21:00:56	e5cb55ac-91c2-4f8c-8282-500000b76291	GET	/users	http://localhost:3000
+
+20221022	21:00:58	47988e33-260a-436b-a527-a950e211bd21	OPTIONS	/auth/logout	http://localhost:3000
+
+20221022	21:00:58	b07b68b1-1626-4804-ae0c-d12d7866351a	POST	/auth/logout	http://localhost:3000
+
+20221022	21:01:15	04a644bf-fe29-4125-8e63-32404d16cf9e	OPTIONS	/auth/register	http://localhost:3000
+
+20221022	21:01:15	276d8dbe-1dba-43fe-b11e-eb2f296be4d3	POST	/auth/register	http://localhost:3000
+
+20221022	21:01:42	4b41897c-17e6-4ff3-9296-3b1b65fa3126	OPTIONS	/auth/register	http://localhost:3000
+
+20221022	21:01:42	80b9aaa4-2572-41ab-b0bb-b23f4e7d62dd	POST	/auth/register	http://localhost:3000
+
+20221022	21:01:52	db17d3a8-2245-4806-82cd-482d8695fae9	OPTIONS	/auth/register	http://localhost:3000
+
+20221022	21:01:52	2c4515ea-2397-4687-ad3f-622a21c2e4f8	POST	/auth/register	http://localhost:3000
+
+20221022	21:10:41	5d9d4502-1525-4589-9fa4-3c8952998185	OPTIONS	/auth	http://localhost:3000
+
+20221022	21:10:41	b002f793-2ee6-46ee-8d9b-14569b32e56c	POST	/auth	http://localhost:3000
+
+20221022	21:10:42	6e08aea6-b25c-4716-8116-0d0910164f21	OPTIONS	/users	http://localhost:3000
+
+20221022	21:10:42	7480baa6-dc8e-4c92-ba4e-15a145ae5256	OPTIONS	/cities	http://localhost:3000
+
+20221022	21:10:42	875b182a-0846-425e-bb75-c26bd52a34e2	GET	/users	http://localhost:3000
+
+20221022	21:10:42	c8f5cfee-ca13-42bb-ab8b-b05bf3bb197d	GET	/cities	http://localhost:3000
+
+20221022	21:10:45	ef95735a-2f94-4725-a784-ed6dac1f9b09	GET	/users	http://localhost:3000
+
+20221022	21:10:48	1d67b2ae-6b2f-4470-b0c9-8129ae049e72	OPTIONS	/users	http://localhost:3000
+
+20221022	21:10:48	cb4c697a-8e87-4bfa-b695-8bf8e86101bf	DELETE	/users	http://localhost:3000
+
+20221022	21:10:48	6e0cf612-d1ed-41ed-b256-e0c4d311a5ce	GET	/users	http://localhost:3000
+
+20221022	21:10:51	0bca035e-e953-4be6-b7ea-99b3111cd621	OPTIONS	/auth/logout	http://localhost:3000
+
+20221022	21:10:51	f0ade6b9-072b-4eeb-ac8d-5590aa514ca5	POST	/auth/logout	http://localhost:3000
+
+20221022	21:41:27	97f2093c-41f0-4582-a652-da2740fe8899	OPTIONS	/auth	http://localhost:3000
+
+20221022	21:41:28	17916693-0e7e-4096-bb56-a8a913d67808	POST	/auth	http://localhost:3000
+
+20221022	21:41:30	53d1c1ed-5ba0-41e0-b975-0b72b5d40e56	OPTIONS	/users	http://localhost:3000
+
+20221022	21:41:30	9a2ace78-dd31-4c53-9143-c557db3a402d	OPTIONS	/cities	http://localhost:3000
+
+20221022	21:41:30	84eb017d-4020-4cdd-9fb2-18195e870831	GET	/users	http://localhost:3000
+
+20221022	21:41:30	99b96ff7-bbff-4139-b7f9-cbe2ef5030e4	GET	/cities	http://localhost:3000
+
+20221023	19:19:04	96aa4dfe-400c-40b2-b0f9-aa19f0ab6e1b	OPTIONS	/auth/logout	http://localhost:3000
+
+20221023	19:19:05	34425039-36e8-4c68-87d1-f0af2f2245e1	POST	/auth/logout	http://localhost:3000
+
+20221023	19:19:25	d8af430e-b84a-4241-887d-6a2ab6b4148b	OPTIONS	/auth	http://localhost:3000
+
+20221023	19:19:25	8a5caed8-bcd6-4900-a4ec-c05ceeeefc58	POST	/auth	http://localhost:3000
+
+20221023	19:19:28	36b905fc-1237-4e7a-8271-303539d4bbb8	OPTIONS	/users	http://localhost:3000
+
+20221023	19:19:28	99e3d2b3-12d1-406f-b17d-f8acb751d05c	OPTIONS	/cities	http://localhost:3000
+
+20221023	19:19:28	a3a92b28-e8ac-45e9-b71e-70bddddca5a5	GET	/users	http://localhost:3000
+
+20221023	19:19:28	6ee6932f-1f78-44fa-88c3-d5ac65d91465	GET	/cities	http://localhost:3000
+
+20221023	19:21:18	b06b1085-b900-4dd4-900c-549bc6643097	GET	/auth/refresh	http://localhost:3000
+
+20221023	19:21:21	cfa99dbc-d9cc-4413-a62b-e5b62f1d2838	OPTIONS	/users	http://localhost:3000
+
+20221023	19:21:21	200dfcbf-651f-400a-80e8-0faa724adf90	OPTIONS	/cities	http://localhost:3000
+
+20221023	19:21:22	14b563bd-5352-4003-bb13-5932c6d970b0	GET	/users	http://localhost:3000
+
+20221023	19:21:22	efce40dd-a037-4fe7-8879-72564b1d8bcc	GET	/cities	http://localhost:3000
+
+20221023	19:26:28	c8b8a388-db8c-46a4-a5f5-43967936816c	GET	/auth/refresh	http://localhost:3000
+
+20221023	19:26:28	7e59804f-b762-4ad2-b7f0-9d5a598d5473	OPTIONS	/users	http://localhost:3000
+
+20221023	19:26:28	a5f07f82-e668-4795-821c-c0cb48141e9c	OPTIONS	/cities	http://localhost:3000
+
+20221023	19:26:28	181a1e9a-c7d5-47f5-8812-5b279a355b45	GET	/users	http://localhost:3000
+
+20221023	19:26:28	8fe5a6ac-fb06-4d7b-bbfc-3f5785c99613	GET	/cities	http://localhost:3000
+
+20221023	19:26:55	4e862228-7c45-4019-9c49-fa722327c2f7	GET	/auth/refresh	http://localhost:3000
+
+20221023	19:26:56	ef4a7d84-ce9b-4a83-adc5-a1e37aa18f96	OPTIONS	/users	http://localhost:3000
+
+20221023	19:26:56	9532c54d-4544-4c93-a050-8295db64630f	OPTIONS	/cities	http://localhost:3000
+
+20221023	19:26:56	767031a4-85e6-49ef-994d-fd12d8571789	GET	/users	http://localhost:3000
+
+20221023	19:26:56	30b8bb97-029c-45e2-b328-a8a5c936934c	GET	/cities	http://localhost:3000
+
+20221023	20:04:25	3e2b7fad-6187-4993-a347-b157ae2a906e	GET	/auth/refresh	http://localhost:3000
+
+20221023	20:04:26	f7d82198-1cb1-4c0e-a6c7-12b60ce75d13	OPTIONS	/users	http://localhost:3000
+
+20221023	20:04:26	1b53209c-ebbe-4801-a51c-ecf381304cfa	OPTIONS	/cities	http://localhost:3000
+
+20221023	20:04:26	8932dbea-9b3e-4174-9344-ee66555156f5	GET	/users	http://localhost:3000
+
+20221023	20:04:26	07a28a7a-639f-4056-9456-2b3e80f4d13d	GET	/cities	http://localhost:3000
+
+20221023	20:13:54	6a25322f-421d-43e4-9e8a-fd57ad025488	OPTIONS	/auth/logout	http://localhost:3000
+
+20221023	20:13:54	cd5bba2c-0fa6-4318-b1e8-40b02513f369	POST	/auth/logout	http://localhost:3000
+
+20221023	20:42:48	24993313-00e7-4f51-b677-efd4496055a9	OPTIONS	/auth	http://localhost:3000
+
+20221023	20:42:48	0723647a-083f-442d-8178-48085df1dc0b	POST	/auth	http://localhost:3000
+
+20221023	20:42:49	7153a3cc-a81b-4a6f-9695-4cbdcaf3c67f	OPTIONS	/users	http://localhost:3000
+
+20221023	20:42:49	0f67c09e-757a-428b-b6a9-420d80a92568	OPTIONS	/cities	http://localhost:3000
+
+20221023	20:42:49	63748762-b4d2-41a0-a4ad-b85dcc87995a	GET	/users	http://localhost:3000
+
+20221023	20:42:49	28fcb7ff-9e46-49cc-bd26-d2d598ce78b7	GET	/cities	http://localhost:3000
+
+20221023	20:57:18	3a642140-1199-48bc-9cd0-19a0415dc938	GET	/auth/refresh	http://localhost:3000
+
+20221023	20:57:22	8fbed035-bd67-447b-915b-09e801879ac5	GET	/auth/refresh	http://localhost:3000
+
+20221023	20:57:23	54ae3269-76b2-43de-a356-3a17843f100c	OPTIONS	/users	http://localhost:3000
+
+20221023	20:57:23	801e7159-7da3-46a8-85a6-65942ebeb4fc	OPTIONS	/cities	http://localhost:3000
+
+20221023	20:57:23	0327477d-9d85-4bf3-92d2-e94981497284	GET	/users	http://localhost:3000
+
+20221023	20:57:23	305587ee-460d-4f26-90a2-9401d23f6b71	GET	/cities	http://localhost:3000
+
+20221023	20:57:39	5068a6e9-0657-43c0-ab43-e3df29eedf21	GET	/auth/refresh	http://localhost:3000
+
+20221023	20:57:40	18d20fef-45a0-4a77-b581-de978b6cf54c	OPTIONS	/users	http://localhost:3000
+
+20221023	20:57:40	1f29a146-1987-419a-8407-a6b2625d7d65	OPTIONS	/cities	http://localhost:3000
+
+20221023	20:57:40	64577f91-02fa-47d4-9a26-0c21e7c0c0a6	GET	/users	http://localhost:3000
+
+20221023	20:57:40	f92476ca-67a8-4b5b-ad7b-d342603aa183	GET	/cities	http://localhost:3000
+
+20221023	20:57:52	4ad40f77-1bac-4735-9080-156ad80ec7eb	GET	/auth/refresh	http://localhost:3000
+
+20221023	20:57:52	fa184c92-4664-4e4f-9d97-2dba10bfc203	OPTIONS	/users	http://localhost:3000
+
+20221023	20:57:52	b21dfaee-40c6-43d4-8828-8c7b166d0630	OPTIONS	/cities	http://localhost:3000
+
+20221023	20:57:52	64683cef-a53d-45d3-98fa-6557e3e0e45f	GET	/users	http://localhost:3000
+
+20221023	20:57:52	eed87dab-0098-4abe-b8d2-21080af8592c	GET	/cities	http://localhost:3000
+
+20221023	21:02:02	b72ce756-0ef1-4ed3-8444-c9effe6f8bde	GET	/auth/refresh	http://localhost:3000
+
+20221023	21:02:03	155de862-92b8-40f5-bb58-8810bbd83182	OPTIONS	/users	http://localhost:3000
+
+20221023	21:02:03	45747186-59f1-429e-96b4-8a885577a5ab	OPTIONS	/cities	http://localhost:3000
+
+20221023	21:02:03	2c29173f-8412-4fc7-907e-19a6680d80ce	GET	/users	http://localhost:3000
+
+20221023	21:02:03	7acc8891-d4ac-4872-8ff3-da079ccee7c0	GET	/cities	http://localhost:3000
+
+20221023	21:03:26	b91d3e9d-e189-48cf-8e67-a903fd6a902e	GET	/auth/refresh	http://localhost:3000
+
+20221023	21:03:27	b1918d9c-f5c0-45cb-9fb6-9439be36fdd6	OPTIONS	/users	http://localhost:3000
+
+20221023	21:03:27	7f9817f0-6add-431c-a72f-be3c1c8eab3f	OPTIONS	/cities	http://localhost:3000
+
+20221023	21:03:27	7af94fff-bed2-4bbd-8f37-c653bce2380c	GET	/users	http://localhost:3000
+
+20221023	21:03:27	bf3d3636-8438-48aa-b839-b528fa852ccf	GET	/cities	http://localhost:3000
+
